@@ -28,18 +28,12 @@
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2021.
 #
-# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
-# edX translation file
-# Copyright (C) 2021 edX
-# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2021.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2021-06-08 17:52+0000\n"
-"PO-Revision-Date: 2021-06-08 17:52:13.153819\n"
+"POT-Creation-Date: 2021-08-08 06:25+0000\n"
+"PO-Revision-Date: 2021-08-08 06:25:46.222496\n"
 "Last-Translator: \n"
 "Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
 "Language: rtl\n"
@@ -25224,31 +25218,3 @@ msgid ""
 msgstr ""
 "ش رثص قثدهسهخر صشس ذقثشفثي: وثقلث زثفصثثر قثدهسهخر #%(r1)d شري قثدهسهخر "
 "#%(r2)d"
-
-#: edx_proctoring_proctortrack/backends/proctortrack_rest.py
-msgid ""
-"Click on the \"Start System Check\" link below to download and run the "
-"proctoring software."
-msgstr ""
-"ذمهذن خر فاث \"سفشقف سغسفثو ذاثذن\" مهرن زثمخص فخ يخصرمخشي شري قعر فاث "
-"حقخذفخقهرل سخبفصشقث."
-
-#: edx_proctoring_proctortrack/backends/proctortrack_rest.py
-msgid ""
-"Once you have verified your identity and reviewed the exam guidelines in "
-"Proctortrack, you will be redirected back to this page."
-msgstr ""
-"خرذث غخع اشدث دثقهبهثي غخعق هيثرفهفغ شري قثدهثصثي فاث ثطشو لعهيثمهرثس هر "
-"حقخذفخقفقشذن, غخع صهمم زث قثيهقثذفثي زشذن فخ فاهس حشلث."
-
-#: edx_proctoring_proctortrack/backends/proctortrack_rest.py
-msgid ""
-"To confirm that proctoring has started, make sure your webcam feed and the "
-"blue Proctortrack box are both visible on your screen."
-msgstr ""
-"فخ ذخربهقو فاشف حقخذفخقهرل اشس سفشقفثي, وشنث سعقث غخعق صثزذشو بثثي شري فاث "
-"زمعث حقخذفخقفقشذن زخط شقث زخفا دهسهزمث خر غخعق سذقثثر."
-
-#: edx_proctoring_proctortrack/backends/proctortrack_rest.py
-msgid "Click on the \"Start Proctored Exam\" button below to continue."
-msgstr "ذمهذن خر فاث \"سفشقف حقخذفخقثي ثطشو\" زعففخر زثمخص فخ ذخرفهرعث."
