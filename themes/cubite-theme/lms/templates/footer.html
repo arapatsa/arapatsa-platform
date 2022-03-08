@@ -1,0 +1,172 @@
+## mako
+<%page expression_filter="h"/>
+<%!
+  from django.urls import reverse
+  from django.utils.translation import ugettext as _
+  from lms.djangoapps.branding.api import get_footer
+  from openedx.core.djangoapps.lang_pref.api import footer_language_selector_is_enabled
+%>
+<% footer = get_footer(is_secure=is_secure) %>
+<% icp_license_info = getattr(settings, 'ICP_LICENSE_INFO', {})%>
+<%namespace name='static' file='static_content.html'/>
+
+<!-- This example requires Tailwind CSS v2.0+ -->
+<footer class="bg-gray-800" aria-labelledby="footerHeading">
+    <h2 id="footerHeading" class="sr-only">Footer</h2>
+    <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+      <div class="xl:grid xl:grid-cols-3 xl:gap-8">
+        <div class="space-y-8 xl:col-span-1">
+          <img class="h-10" src="${static.url('images/logo.png')}" alt="Company name">
+          <p class="text-gray-500 text-base">
+            Tibetan Digital Learning
+          </p>
+          <div class="flex space-x-6">
+            <a href="https://www.ymfz.org/?lang=en" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">Kumarajiva
+            </a>
+          </div>
+          <div class="flex space-x-6">
+            <a href="https://www.dharmasagar.org/" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">Dharma Sagar
+            </a>
+          </div>
+          <div class="flex space-x-6">
+            <a href="https://www.vecteezy.com/free-vector/tibet" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">Tibet Vectors by Vecteezy
+            </a>
+          </div>
+        </div>
+        <div class="mt-12 grid grid-cols-2 gap-8 xl:mt-0 xl:col-span-2">
+          <div class="md:grid md:grid-cols-2 md:gap-8">
+            <div>
+              <h3 class="text-sm font-semibold text-gray-200 tracking-wider uppercase font-sans">
+                Solutions
+              </h3>
+              <ul class="mt-4 space-y-4 p-0">
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Marketing
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Analytics
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Commerce
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Insights
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="mt-12 md:mt-0">
+              <h3 class="text-sm font-semibold text-gray-200 tracking-wider uppercase font-sans">
+                Support
+              </h3>
+              <ul class="mt-4 space-y-4 p-0">
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Pricing
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Documentation
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Guides
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    API Status
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="md:grid md:grid-cols-2 md:gap-8">
+            <div>
+              <h3 class="text-sm font-semibold text-gray-200 tracking-wider uppercase font-sans">
+                Company
+              </h3>
+              <ul class="mt-4 space-y-4 p-0">
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    About
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Blog
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Jobs
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Press
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Partners
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="mt-12 md:mt-0">
+              <h3 class="text-sm font-semibold text-gray-200 tracking-wider uppercase font-sans">
+                Legal
+              </h3>
+              <ul class="mt-4 space-y-4 p-0">
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Claim
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Privacy
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="text-base text-gray-400 hover:text-gray-200 hover:no-underline">
+                    Terms
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mt-12 border-t border-gray-200 pt-8">
+        <p class="text-base text-gray-400 xl:text-center">
+          &copy; 2022 ${platform_name}, Inc. All rights reserved.
+        </p>
+      </div>
+    </div>
+  </div>
+  </footer>
+  
+  

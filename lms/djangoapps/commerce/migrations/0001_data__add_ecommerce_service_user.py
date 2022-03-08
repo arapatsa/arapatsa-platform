@@ -22,7 +22,7 @@ class Migration(migrations.Migration):
 
     dependencies = [
         migrations.swappable_dependency(settings.AUTH_USER_MODEL),
-        ('user_api', '0002_retirementstate_userretirementstatus'),
+        #('user_api', '0002_retirementstate_userretirementstatus'),
     ]
 
     operations = [

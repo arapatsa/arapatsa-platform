@@ -1760,6 +1760,7 @@ LANGUAGES = [
     ('zh-cn', '中文 (简体)'),  # Chinese (China)
     ('zh-hk', '中文 (香港)'),  # Chinese (Hong Kong)
     ('zh-tw', '中文 (台灣)'),  # Chinese (Taiwan)
+    ('bo', 'བོད་སྐད།'),
 ]
 
 LANGUAGE_DICT = dict(LANGUAGES)
@@ -3743,7 +3744,7 @@ ALL_LANGUAGES = [
     ["yi", "Yiddish"],
     ["yo", "Yoruba"],
     ["za", "Zhuang"],
-    ["zu", "Zulu"]
+    ["zu", "Zulu"],
 ]
 
 

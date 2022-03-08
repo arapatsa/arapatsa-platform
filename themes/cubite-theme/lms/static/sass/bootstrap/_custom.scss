@@ -1,0 +1,13 @@
+@import '../override';
+
+$theme-blue: #4f46e5;
+
+// Course outline accordion
+
+button.accordion-trigger .fa, button.prerequisite-button .fa{
+  color: $theme-blue !important;
+}
+
+.date-summary-container .date-summary-todays-date{
+  border-left: 3px solid $theme-blue !important;
+}

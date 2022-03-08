@@ -1,0 +1,75 @@
+$theme-blue: #4f46e5 !important;
+$theme-blue-hover: #4338ca !important;
+$m-blue-d1: $theme-blue !default;
+$m-blue-d4: $theme-blue !default;
+
+$courseware-border-bottom-color: $theme-blue !default;
+$uxpl-blue-hover-active: $theme-blue-hover !default; // wcag2a compliant
+
+
+
+// for profile page
+.wrapper-profile-section-container-one {
+    .wrapper-profile-section-one {
+	border-top: 5px solid $theme-blue !important;
+	}
+}
+
+//account/settings
+.account-settings-section-body {
+  	.u-field {
+    	.field {
+      		select {
+        		~ .icon-caret-down {
+          			&::after {
+						border-top:7px solid $theme-blue !important;
+						}
+					}
+				}
+			.u-field-link {
+	            border: 1px solid $theme-blue !important;
+	            color: $theme-blue !important;
+
+	          &:hover,
+              &:focus {
+                color: #fff !important;
+              }
+	        }
+		}
+	}
+}
+.account-deletion-details {
+  .btn-outline-primary {
+    border: 1px solid $theme-blue !important;
+    color: $theme-blue !important;
+    
+    &:hover,
+    &:focus {
+      color: #fff !important;
+    }
+  }
+}
+
+.xmodule_display.xmodule_CapaModule div.problem .choicegroup label:hover, .xmodule_display.xmodule_CapaModule div.problem .choicetextgroup label:hover, .xmodule_display.xmodule_ConditionalModule div.problem .xmodule_display.xmodule_CapaModule .choicegroup label:hover, .xmodule_display.xmodule_ConditionalModule div.problem .xmodule_display.xmodule_CapaModule .choicetextgroup label:hover{border: 2px solid $theme-blue !important;}
+
+
+
+.course-bookmarks .bookmarks-results-list .bookmarks-results-list-item:hover{border-color: $theme-blue !important;}
+
+
+.course-bookmarks .bookmarks-results-list .bookmarks-results-list-item::before{color:$theme-blue !important;}
+
+
+.dashboard .main-container .my-courses .course .details .enter-course:hover{color:#fff !important;}
+
+
+.course-bookmarks .bookmarks-results-list .bookmarks-results-list-item:hover .list-item-breadcrumbtrail{color: $theme-blue;}
+.btn-outline-primary:hover {
+    background-color: $theme-blue !important;
+    border-color: $theme-blue !important;
+}
+
+.btn-outline-primary {
+    color: $theme-blue !important;
+    border-color: $theme-blue !important;
+}
