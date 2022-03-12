@@ -1,0 +1,192 @@
+<%page expression_filter="h"/>
+<%inherit file="main.html" />
+<%namespace name='static' file='static_content.html'/>
+<%!
+from django.utils.translation import ugettext as _
+from django.urls import reverse
+
+from openedx.core.djangolib.markup import HTML, Text
+%>
+<div class="">
+    <div class="relative overflow-hidden">
+        <main>
+            <div class="pt-10 bg-gray-900 sm:pt-16 lg:pt-8 lg:pb-14 lg:overflow-hidden">
+                <div class="mx-auto max-w-7xl lg:px-8">
+                    <div class="lg:grid lg:grid-cols-2 lg:gap-8">
+                        <div class="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 sm:text-center lg:px-0 lg:text-left lg:flex lg:items-center">
+                            <div>
+                                <h1 class="mt-3 text-4xl tracking-tight text-white sm:mt-5 sm:text-6xl lg:mt-6 xl:text-6xl text-left">Arapatsa</h1>
+                                <h1 class="mt-4 text-4xl tracking-tight font-extrabold text-white sm:mt-5 sm:text-6xl lg:mt-6 xl:text-6xl text-left">
+                                    <span class="block">Tibetan</span>
+                                    <span class="block text-indigo-400">Digital Learning.</span>
+                                </h1>
+                                <p class="mt-3 text-base text-gray-300 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
+                                    Arapatsa is a digital platform for learning tibetan. We deliver inspiring learning experiences with material carefully developed by a team of Tibetans and westerners professionals. Our courses are based in modern pedagogy and aim to make students to achieve a basic level of Tibetan with 48 hours of study, and C1 level of fluency in 3-4 years. 
+                                </p>
+                                <p class="mt-3 text-base text-gray-300 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">Anyone can register for free and start using it right away.</p>
+                                <div class="mt-10 sm:mt-6">
+                                    <div class="sm:flex">
+                                        <div class="mt-3 sm:mt-0">
+                                            <a type="submit" href="/register" class="cursor-pointer block w-full py-3 px-4 rounded-md shadow bg-indigo-500 text-white font-medium hover:bg-indigo-600 focus:outline-none focus:ring-2 hover:no-underline focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900">Get started</a>
+                                        </div>
+                                    </div>
+                                    <p class="mt-3 text-sm text-gray-300 sm:mt-4">It takes one minute to register, try it now!</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mt-12 -mb-16 sm:-mb-48 lg:m-0 lg:relative">
+                            <div class="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 lg:max-w-none lg:px-0">
+                                <!-- Illustration taken from Lucid Illustrations: https://lucid.pixsellz.io/ -->
+                                <img class="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-none" src="${static.url('images/top_banner.png')}" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- More main page content here... -->
+        </main>
+    </div>
+</div>
+<!-- Features -->
+<!-- This example requires Tailwind CSS v2.0+ -->
+<div class="relative bg-white py-16 sm:py-16 lg:py-20">
+    <div class="mx-auto max-w-md px-4 text-center sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
+        <h2 class="text-base font-semibold tracking-wider text-indigo-600 uppercase font-sans">STUDY TIBETAN IN THE COMFORT OF YOUR HOME FOR FREE</h2>
+        <p class="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl">
+            Engaging and inspiring learning experience
+        </p>
+        <p class="mt-5 max-w-prose mx-auto text-xl text-gray-500">Arapatsa is a platform for learning Tibetan developed by the Esukhia Team.
+        </p>
+        <div class="mt-12">
+            <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
+                <div class="pt-6">
+                    <div class="flow-root bg-gray-50 rounded-lg px-6 pb-8">
+                        <div class="-mt-6">
+                            <div>
+                                <span class="inline-flex items-center justify-center p-3 bg-indigo-500 rounded-md shadow-lg">
+                                    <img src="${static.url('images/lecture.png')}" style="width: 30px;">
+                                </span>
+                            </div>
+                            <h3 class="mt-8 text-lg font-medium text-gray-900 tracking-tight font-sans">Online Platform</h3>
+                            <p class="mt-5 text-base text-gray-500">
+                                All the material is developed for online study and has an ongoing improvement based on students feedback
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="pt-6">
+                    <div class="flow-root bg-gray-50 rounded-lg px-6 pb-8">
+                        <div class="-mt-6">
+                            <div>
+                                <span class="inline-flex items-center justify-center p-3 bg-indigo-500 rounded-md shadow-lg">
+                                    <img src="${static.url('images/right.png')}" style="width: 30px;">
+                                </span>
+                            </div>
+                            <h3 class="mt-8 text-lg font-medium text-gray-900 tracking-tight font-sans">Flipped-classroom</h3>
+                            <p class="mt-5 text-base text-gray-500">
+                                We base Arapatsa in the flipped-classroom methodology where the student prepares for classes studying new content by himself before the actual class.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="pt-6">
+                    <div class="flow-root bg-gray-50 rounded-lg px-6 pb-8">
+                        <div class="-mt-6">
+                            <div>
+                                <span class="inline-flex items-center justify-center p-3 bg-indigo-500 rounded-md shadow-lg">
+                                    <img src="${static.url('images/handshake.png')}" style="width: 30px;">
+                                </span>
+                            </div>
+                            <h3 class="mt-8 text-lg font-medium text-gray-900 tracking-tight font-sans">Partnership with TTPs</h3>
+                            <p class="mt-5 text-base text-gray-500">
+                                Arapatsa is used by Tibetan Translation Programs such as Kumarajiva and Dharma Sagar to train their students in Tibetan Language and Dharma in Tibetan
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Bring courses list -->
+<div class="relative">
+    <div class="absolute inset-0 flex items-center" aria-hidden="true">
+        <div class="w-full border-t border-gray-300"></div>
+    </div>
+    <div class="relative flex justify-center">
+    </div>
+</div>
+<%include file="${courses_list}" />
+<!-- CTA -->
+<!-- This example requires Tailwind CSS v2.0+ -->
+<div class="relative bg-gray-800">
+    <div class="sm:hidden md:block lg:block h-56 bg-indigo-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2">
+        <img class="w-full h-full object-cover" src="${static.url('images/teacher.png')}" alt="">
+    </div>
+    <div class="relative max-w-7xl mx-auto px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
+        <div class="md:ml-auto md:w-1/2 md:pl-10">
+            <h2 class="text-base font-semibold uppercase tracking-wider text-gray-300 font-sans">
+                FOR TEACHERS
+            </h2>
+            <p class="mt-2 text-white text-3xl font-extrabold tracking-tight sm:text-4xl">
+                Start Teaching Tibetan today
+            </p>
+            <p class="mt-3 text-lg text-gray-300">
+                Tibetan teachers are welcome to use our material for their classes, you can get in touch with our team in case you have any doubts or need any help from us.
+            </p>
+            <p class="mt-8 text-lg text-gray-300">
+                CONTACT@ESUKHIA.ORG
+            </p>
+        </div>
+    </div>
+</div>
+<!-- Testimonials -->
+<!-- This example requires Tailwind CSS v2.0+ -->
+<!-- <section class="bg-white overflow-hidden">
+    <div class="relative max-w-7xl mx-auto pt-20 pb-12 px-4 sm:px-6 lg:px-8 lg:py-20">
+        <svg class="absolute top-full left-0 transform translate-x-80 -translate-y-24 lg:hidden" width="784" height="404" fill="none" viewBox="0 0 784 404" aria-hidden="true">
+            <defs>
+                <pattern id="e56e3f81-d9c1-4b83-a3ba-0d0ac8c32f32" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+                    <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+                </pattern>
+            </defs>
+            <rect width="784" height="404" fill="url(#e56e3f81-d9c1-4b83-a3ba-0d0ac8c32f32)" />
+        </svg>
+        <svg class="hidden lg:block absolute right-full top-1/2 transform translate-x-1/2 -translate-y-1/2" width="404" height="784" fill="none" viewBox="0 0 404 784" aria-hidden="true">
+            <defs>
+                <pattern id="56409614-3d62-4985-9a10-7ca758a8f4f0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+                    <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+                </pattern>
+            </defs>
+            <rect width="404" height="784" fill="url(#56409614-3d62-4985-9a10-7ca758a8f4f0)" />
+        </svg>
+        <div class="relative lg:flex lg:items-center">
+            <div class="lg:block lg:flex-shrink-0">
+                <img class="h-64 w-64 rounded-full xl:h-80 xl:w-80" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+            </div>
+            <div class="relative lg:ml-10">
+                <svg class="absolute top-0 left-0 transform -translate-x-8 -translate-y-24 h-36 w-36 text-indigo-200 opacity-50" stroke="currentColor" fill="none" viewBox="0 0 144 144" aria-hidden="true">
+                    <path stroke-width="2" d="M41.485 15C17.753 31.753 1 59.208 1 89.455c0 24.664 14.891 39.09 32.109 39.09 16.287 0 28.386-13.03 28.386-28.387 0-15.356-10.703-26.524-24.663-26.524-2.792 0-6.515.465-7.446.93 2.327-15.821 17.218-34.435 32.11-43.742L41.485 15zm80.04 0c-23.268 16.753-40.02 44.208-40.02 74.455 0 24.664 14.891 39.09 32.109 39.09 15.822 0 28.386-13.03 28.386-28.387 0-15.356-11.168-26.524-25.129-26.524-2.792 0-6.049.465-6.98.93 2.327-15.821 16.753-34.435 31.644-43.742L121.525 15z" />
+                </svg>
+                <blockquote class="relative">
+                    <div class="text-2xl leading-9 font-medium text-gray-900">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.
+                        </p>
+                    </div>
+                    <footer class="mt-8">
+                        <div class="flex">
+                            <div class="flex-shrink-0 lg:hidden">
+                                <img class="h-12 w-12 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                            </div>
+                            <div class="ml-4 lg:ml-0">
+                                <div class="text-base font-medium text-gray-900">Judith Black</div>
+                                <div class="text-base font-medium text-indigo-600">CEO, Tuple</div>
+                            </div>
+                        </div>
+                    </footer>
+                </blockquote>
+            </div>
+        </div>
+    </div>
+</section> -->

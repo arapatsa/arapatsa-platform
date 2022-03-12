@@ -20,9 +20,6 @@
   django.catalog = django.catalog || {};
   
   var newcatalog = {
-    " learner does not exist in LMS and not added to the exception list": "\u5b78\u7fd2\u8005\u4e0d\u5b58\u5728\u7cfb\u7d71\u4e2d\uff0c\u5c07\u4e0d\u52a0\u5230\u4f8b\u5916\u5217\u8868\u4e2d",
-    " learner is successfully added to the exception list": "\u5b78\u7fd2\u8005\u5df2\u7d93\u6210\u529f\u5730\u52a0\u5165\u5230\u4f8b\u5916\u5217\u8868",
-    " learners are successfully added to exception list": "\u5b78\u7fd2\u8005\u5df2\u7d93\u6210\u529f\u5730\u52a0\u5165\u5230\u4f8b\u5916\u5217\u8868",
     "%(cohort_name)s (%(user_count)s)": "%(cohort_name)s (%(user_count)s)",
     "%(errorCount)s error found in form.": [
       "\u5728\u8868\u55ae\u4e2d\u767c\u73fe%(errorCount)s\u7684\u932f\u8aa4\u3002"
@@ -35,8 +32,6 @@
       "(\u5305\u542b%(student_count)s\u5b78\u751f)"
     ],
     "(optional)": "(\u53ef\u9078\u586b)",
-    "<%= user %> already in exception list.": "<%= user %> \u5df2\u5728\u7279\u4f8b\u540d\u55ae\u4e2d\u3002",
-    "<%= user %> has been successfully added to the exception list. Click Generate Exception Certificate below to send the certificate.": "\u5df2\u7d93\u6210\u529f\u65b0\u589e<%= user %>\u5230\u7279\u4f8b\u540d\u55ae\u4e2d\u3002\u8acb\u9ede\u64ca\u4e0b\u9762\u7684\u7522\u751f\u7279\u4f8b\u8b49\u66f8\u4e26\u767c\u9001\u8b49\u66f8\u3002",
     "A driver's license, passport, or other government-issued ID with your name and photo": "\u4e00\u5f35\u99d5\u7167\u3001\u8b77\u7167\uff0c\u6216\u5176\u4ed6\u653f\u5e9c\u7c3d\u767c\u7684\u8b49\u4ef6\uff0c\u9700\u5305\u542b\u60a8\u7684\u59d3\u540d\u548c\u7167\u7247\u3002",
     "A list of courses you have just enrolled in as a verified student": "\u4e00\u500b\u60a8\u525b\u8a3b\u518a\u70ba\u5df2\u9a57\u8b49\u5b78\u751f\u7684\u8ab2\u7a0b\u5217\u8868\u3002",
     "A name that identifies your team (maximum 255 characters).": "\u5718\u968a\u540d\u7a31 (\u6700\u5927\u70ba255\u500b\u5b57\u5143\u9577\u5ea6)",
@@ -162,7 +157,6 @@
     "Content-Specific Discussion Topics": "\u7279\u5b9a\u5167\u5bb9\u7684\u8a0e\u8ad6\u4e3b\u984c",
     "Copy Email To Editor": "\u8907\u88fd\u90f5\u4ef6\u5230\u7de8\u8f2f\u5668",
     "Correct failed component": "\u66f4\u6b63\u932f\u8aa4\u7d44\u4ef6",
-    "Could not find Certificate Exception in white list. Please refresh the page and try again": "\u5728\u8a31\u53ef\u540d\u55ae\u4e2d\u627e\u4e0d\u5230\u8b49\u66f8\u7279\u4f8b\u7684\u4eba\u3002\u8acb\u91cd\u65b0\u8f09\u5165\u9801\u9762\u6216\u518d\u8a66\u4e00\u6b21\u3002",
     "Could not find Certificate Invalidation in the list. Please refresh the page and try again": "\u7121\u6cd5\u5728\u9019\u4efd\u5217\u8868\u4e2d\u627e\u5230\u8b49\u66f8\u5931\u6548\u8b49\u660e\u3002\u8acb\u91cd\u65b0\u8f09\u5165\u9801\u9762\u6216\u518d\u8a66\u4e00\u6b21\u3002",
     "Could not find a user with username or email address '<%- identifier %>'.": "\u7121\u6cd5\u7528\u4f7f\u7528\u8005\u540d\u7a31\u6216\u96fb\u5b50\u90f5\u4ef6\u5730\u5740\u627e\u5230\u4f7f\u7528\u8005 '<%- identifier %>'.",
     "Could not find users associated with the following identifiers:": "\u7121\u6cd5\u6839\u64da\u4e0b\u5217\u7684\u689d\u4ef6\u627e\u5230\u7528\u6236\uff1a",
@@ -409,7 +403,6 @@
     "No Webcam Detected": "\u672a\u5075\u6e2c\u5230\u8996\u8a0a\u93e1\u982d",
     "No content-specific discussion topics exist.": "\u7121\u7279\u5b9a\u5167\u5bb9\u7684\u8a0e\u8ad6\u4e3b\u984c\u5b58\u5728\u3002",
     "No results": "\u67e5\u7121\u7d50\u679c",
-    "No results found for \"%(query_string)s\". Please try searching again.": "\u6c92\u6709\u627e\u5230 \"%(query_string)s\" \u7684\u7d50\u679c\u3002\u8acb\u518d\u5617\u8a66\u641c\u5c0b\u3002",
     "No tasks currently running.": "\u672a\u6709\u4efb\u52d9\u5728\u9032\u884c\u4e2d\u3002",
     "Not Currently Available": "\u76ee\u524d\u4e0d\u53ef\u7528",
     "Not Selected": "\u672a\u9078\u53d6",
@@ -576,7 +569,6 @@
     "Status": "\u72c0\u614b",
     "Status of Your Response": "\u60a8\u7684\u4f5c\u7b54\u4e4b\u72c0\u614b",
     "Student": "\u5b78\u751f",
-    "Student Removed from certificate white list successfully.": "\u5b78\u751f\u5df2\u5f9e\u8b49\u66f8\u8a31\u53ef\u540d\u55ae\u4e2d\u79fb\u9664\u6210\u529f\u3002",
     "Student email or username": "\u5b78\u751f Email \u6216 \u4f7f\u7528\u8005\u540d\u7a31",
     "Subject": "\u4e3b\u984c",
     "Subject:": "\u4e3b\u984c :",

@@ -1,6 +1,6 @@
 # #-#-#-#-#  djangojs-partial.po (edx-platform)  #-#-#-#-#
 # edX community translations have been downloaded from Spanish (Latin America) (http://www.transifex.com/open-edx/edx-platform/language/es_419/).
-# Copyright (C) 2020 EdX
+# Copyright (C) 2021 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 #
 # Translators:
@@ -52,7 +52,7 @@
 # José Luis <alagunajs@gmail.com>, 2016
 # #-#-#-#-#  djangojs-studio.po (edx-platform)  #-#-#-#-#
 # edX community translations have been downloaded from Spanish (Latin America) (http://www.transifex.com/open-edx/edx-platform/language/es_419/).
-# Copyright (C) 2020 EdX
+# Copyright (C) 2021 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 #
 # Translators:
@@ -88,9 +88,9 @@
 # Yovany Alexander Álvarez Correa <yalvarez@innovapues.com>, 2018
 # #-#-#-#-#  djangojs-account-settings-view.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Spanish (Latin America) (https://www.transifex.com/open-edx/teams/6205/es_419/).
-# Copyright (C) 2020 EdX
+# Copyright (C) 2021 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
 # morsoinferno <cristobal.acosta@usach.cl>, 2019
@@ -99,11 +99,11 @@
 #
 # #-#-#-#-#  underscore.po (edx-platform)  #-#-#-#-#
 # edX community translations have been downloaded from Spanish (Latin America) (http://www.transifex.com/open-edx/edx-platform/language/es_419/)
-# Copyright (C) 2020 edX
+# Copyright (C) 2021 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 #
 # Translators:
-# Albeiro Gonzalez <albeiro.gonzalez@edunext.co>, 2018-2020
+# Albeiro Gonzalez <albeiro.gonzalez@edunext.co>, 2018-2021
 # Lohenrex <lohenrex.ragnarok@gmail.com>, 2018
 # Alex Dzul <alexexc2@gmail.com>, 2016
 # Anatoli Pena <djanatoli@gmail.com>, 2016
@@ -115,7 +115,7 @@
 # Eduardo Zambrano <ezambrano@edx.org>, 2018
 # Giancarlo  De  Agostini <giancarlo.deagostini@iaen.edu.ec>, 2015
 # 1673e3cf8bd85685e54576636ae7f409, 2014
-# Juan Camilo Montoya Franco <juan.montoya@edunext.co>, 2015-2018,2020
+# Juan Camilo Montoya Franco <juan.montoya@edunext.co>, 2015-2018,2020-2021
 # Juan Camilo Montoya Franco <juan.montoya@edunext.co>, 2014
 # Juan Fernando Villa <elite.linux@gmail.com>, 2015
 # Juan <juan.marrero@utec.edu.uy>, 2015
@@ -130,46 +130,19 @@
 # Natalia, 2018
 # Ned Weitzman <nweitzman@edx.org>, 2017
 # Nuri Plans Toral <nplans@gmail.com>, 2014
-# Omar Al-Ithawi <i@omardo.com>, 2020
+# Omar Al-Ithawi <i@omardo.com>, 2020-2021
 # Patricia Colmenares <patrusca38@hotmail.com>, 2015
 # palichis <palichis@solid-ec.org>, 2015
 # Sergio A. Salazar <sergiosalazar@live.ru>, 2016
 # Thomas Castro <snaketh@gmail.com>, 2014
 # UAbierta Universidad de Chile <uabierta@u.uchile.cl>, 2015
 # Valeria Freire <valtodopds@hotmail.com>, 2014-2015
-# #-#-#-#-#  underscore-studio.po (edx-platform)  #-#-#-#-#
-# edX community translations have been downloaded from Spanish (Latin America) (http://www.transifex.com/open-edx/edx-platform/language/es_419/)
-# Copyright (C) 2020 edX
-# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-#
-# Translators:
-# Albeiro Gonzalez <albeiro.gonzalez@edunext.co>, 2018-2020
-# Anatoli Pena <djanatoli@gmail.com>, 2016
-# Andres Garcia <afgarcia0479@misena.edu.co>, 2019
-# Morphyne <cirrosis60@gmail.com>, 2014
-# Cristian Guerra <cristian.guerra.maya@gmail.com>, 2016
-# Cristian Salamea <ovnicraft@gmail.com>, 2014-2015
-# Diego Rojas <diego.rojas@edunext.co>, 2017
-# Poxtic <erandelle@outlook.com>, 2017
-# Javier Galnares Arias <javigalnares@yahoo.es>, 2015
-# Jose Antonio Sanchez Romero <isc.antonio.sr@gmail.com>, 2017
-# Juan Camilo Montoya Franco <juan.montoya@edunext.co>, 2015-2017
-# Juan Camilo Montoya Franco <juan.montoya@edunext.co>, 2014
-# Juan <juan.marrero@utec.edu.uy>, 2015
-# karlman72 <karlman72@gmail.com>, 2014
-# Laura Silva <lingison@edx.org>, 2016
-# Leandro Bohnhoff <leandro.bohnhoff@gmail.com>, 2015
-# Natalia, 2018
-# Ned Batchelder <ned@edx.org>, 2016
-# Patricia Colmenares <patrusca38@hotmail.com>, 2015
-# Tala Aoun <talaaoun@gmail.com>, 2016
-# UAbierta Universidad de Chile <uabierta@u.uchile.cl>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-platform\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2020-11-15 20:43+0000\n"
-"PO-Revision-Date: 2020-10-04 20:44+0000\n"
+"POT-Creation-Date: 2021-08-01 20:44+0000\n"
+"PO-Revision-Date: 2021-07-28 14:43+0000\n"
 "Last-Translator: Juan Camilo Montoya Franco <juan.montoya@edunext.co>\n"
 "Language-Team: Spanish (Latin America) (http://www.transifex.com/open-edx/edx-platform/language/es_419/)\n"
 "Language: es_419\n"
@@ -186,6 +159,9 @@ msgid ""
 "This may be happening because of an error with our server or your internet "
 "connection. Try refreshing the page or making sure you are online."
 msgstr ""
+"Esto puede estar sucediendo debido a un error con nuestros servidores o con "
+"tu conexión a Internet. Intenta refrescar la página o verifica tu acceso a "
+"Internet."
 
 #: cms/static/cms/js/xblock/cms.runtime.v1.js
 #: cms/static/js/certificates/views/signatory_details.js
@@ -290,12 +266,11 @@ msgstr "Cerrar"
 #: cms/templates/js/course-instructor-details.underscore
 #: cms/templates/js/previous-video-upload-list.underscore
 #: cms/templates/js/signatory-details.underscore
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
 msgid "Name"
 msgstr "Nombre"
 
 #: cms/static/js/views/assets.js lms/static/js/Markdown.Editor.js
-#: cms/templates/js/asset-upload-modal.underscore
 msgid "Choose File"
 msgstr "Elegir archivo"
 
@@ -310,12 +285,10 @@ msgstr "Elegir archivo"
 msgid "OK"
 msgstr "Aceptar"
 
-#. #-#-#-#-#  djangojs-partial.po (edx-platform)  #-#-#-#-#
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: cms/static/js/views/course_video_settings.js
 #: common/lib/xmodule/xmodule/js/src/html/edit.js
-#: cms/templates/js/timed-examination-preference-editor.underscore
 msgid "None"
 msgstr "Ninguno"
 
@@ -372,12 +345,10 @@ msgstr "Subir archivo"
 msgid "Save"
 msgstr "Guardar"
 
-#. #-#-#-#-#  djangojs-partial.po (edx-platform)  #-#-#-#-#
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: cms/static/js/views/modals/course_outline_modals.js
 #: common/lib/xmodule/xmodule/js/src/html/edit.js
-#: cms/templates/js/add-xblock-component-menu-problem.underscore
 msgid "Advanced"
 msgstr "Avanzado"
 
@@ -425,7 +396,7 @@ msgstr "Actualizando con el más reciente contenido de la librería"
 
 #: common/lib/xmodule/xmodule/assets/library_source_block/LibrarySourcedBlockPicker.jsx
 msgid "Loading..."
-msgstr ""
+msgstr "Cargando..."
 
 #: common/lib/xmodule/xmodule/assets/library_source_block/LibrarySourcedBlockPicker.jsx
 msgid "Selected blocks"
@@ -1442,11 +1413,9 @@ msgstr "Pre"
 msgid "Prev"
 msgstr "Previo"
 
-#. #-#-#-#-#  djangojs-partial.po (edx-platform)  #-#-#-#-#
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: common/lib/xmodule/xmodule/js/src/html/edit.js lms/static/js/customwmd.js
-#: cms/templates/js/asset-library.underscore
 msgid "Preview"
 msgstr "Vista previa"
 
@@ -1480,13 +1449,9 @@ msgstr "Reemplazar todo"
 msgid "Replace with"
 msgstr "Reemplazar con"
 
-#. #-#-#-#-#  djangojs-partial.po (edx-platform)  #-#-#-#-#
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
 #: common/lib/xmodule/xmodule/js/src/html/edit.js
-#: cms/templates/js/metadata-file-uploader-item.underscore
-#: cms/templates/js/video-transcripts.underscore
-#: cms/templates/js/video/metadata-translations-item.underscore
 msgid "Replace"
 msgstr "Reemplazar"
 
@@ -1878,6 +1843,11 @@ msgstr ""
 "¿Pasar al Editor avanzado y convertir este problema al formato XML?"
 
 #: common/lib/xmodule/xmodule/js/src/problem/edit.js
+msgid ""
+"An answer option has been left blank. Please review and edit the component."
+msgstr ""
+
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js
 msgid "Explanation"
 msgstr "Explicación"
 
@@ -2126,7 +2096,6 @@ msgid "Turn off transcripts"
 msgstr "Desactivar transcripción"
 
 #: common/static/common/js/components/BlockBrowser/components/BlockBrowser/BlockBrowser.jsx
-#: cms/templates/js/move-xblock-list.underscore
 msgid "View child items"
 msgstr "Ver items hijos"
 
@@ -2642,6 +2611,10 @@ msgid "Subject"
 msgstr "Asunto"
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
+msgid "Select a category"
+msgstr ""
+
+#: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
 #: lms/templates/student_account/account_settings.underscore
 msgid "Account Settings"
 msgstr "Configuración de cuenta"
@@ -2671,18 +2644,6 @@ msgid "Financial Aid"
 msgstr "Ayuda financiera"
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
-msgid "Masters"
-msgstr "Maestrías"
-
-#: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
-msgid "MicroMasters"
-msgstr "MicroMasters"
-
-#: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
-msgid "MicroBachelors"
-msgstr "MicroBachelors"
-
-#: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
 msgid "Photo Verification"
 msgstr "Verificación fotográfica"
 
@@ -2691,11 +2652,6 @@ msgid "Proctoring"
 msgstr "Supervisión"
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
-msgid "Security"
-msgstr "Seguridad"
-
-#: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
-#: cms/templates/js/asset-library.underscore
 msgid "Other"
 msgstr "Otro"
 
@@ -2757,22 +2713,6 @@ msgid "Enter some details for your support request."
 msgstr "Describe los detalles de tu solicitud de ayuda."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx
-msgid ""
-"Due to the recent increase in interest in online education and edX, we are "
-"currently experiencing an unusually high volume of support requests. We "
-"appreciate your patience as we work to review each request. Please check the"
-" "
-msgstr ""
-"Debido al reciente aumento en el interés en la educación en línea y en edX, "
-"actualmente estamos experimentando un volumen inusualmente alto de "
-"solicitudes de soporte. Agradecemos su paciencia mientras trabajamos para "
-"revisar cada solicitud. Por favor, consulte el"
-
-#: lms/djangoapps/support/static/support/jsx/single_support_form.jsx
-msgid " as many questions may have already been answered."
-msgstr "ya que muchas preguntas comunes pueden ya haber sido respondidas."
-
-#: lms/djangoapps/support/static/support/jsx/single_support_form.jsx
 #: lms/djangoapps/support/static/support/jsx/success.jsx
 msgid "Contact Us"
 msgstr "Contacta con nosotros"
@@ -2781,10 +2721,6 @@ msgstr "Contacta con nosotros"
 msgid "Find answers to the top questions asked by learners."
 msgstr ""
 "Encuentra respuestas a las preguntas más comunes de nuestros estudiantes."
-
-#: lms/djangoapps/support/static/support/jsx/single_support_form.jsx
-msgid "Search the {platform} Help Center"
-msgstr "Busca en el Centro de Ayuda de {platform}"
 
 #: lms/djangoapps/support/static/support/jsx/success.jsx
 msgid "Go to my Dashboard"
@@ -2830,9 +2766,6 @@ msgid "Teams"
 msgstr "Equipos"
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team.js
-#: cms/templates/js/certificate-editor.underscore
-#: cms/templates/js/content-group-editor.underscore
-#: cms/templates/js/group-configuration-editor.underscore
 msgid "Create"
 msgstr "Crear"
 
@@ -3044,7 +2977,7 @@ msgid "My Teams"
 msgstr "Mis equipos"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js
-#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-white-list.underscore
+#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-allowlist.underscore
 msgid "Browse"
 msgstr "Explorar"
 
@@ -3252,7 +3185,7 @@ msgstr "Esta imagen es decorativa solamente y no requiere descripción."
 msgid "Markdown Editing Help"
 msgstr "Ayuda para la edición con marcadores Markdown"
 
-#: lms/static/js/Markdown.Editor.js cms/templates/js/asset-library.underscore
+#: lms/static/js/Markdown.Editor.js
 msgid "URL"
 msgstr "URL"
 
@@ -3345,13 +3278,9 @@ msgstr "Encabezado"
 
 #: lms/static/js/ajax-error.js
 msgid ""
-"You have been logged out of your edX account. Click Okay to log in again "
-"now. Click Cancel to stay on this page (you must log in again to save your "
-"work)."
+"You have been logged out of your account. Click Okay to log in again now. "
+"Click Cancel to stay on this page (you must log in again to save your work)."
 msgstr ""
-"Tu sesión ha sido cerrada. Haz clic en Aceptar para volver a iniciar sesión."
-" Haz clic en Cancelar para permanecer en está página (Deberas iniciar sesión"
-" nuevamente para guardar tu trabajo)."
 
 #: lms/static/js/api_admin/views/catalog_preview.js
 msgid "Preview this query"
@@ -3419,64 +3348,107 @@ msgstr ""
 "estar vacío. Por favor completa este campo y luego presiona el botón de "
 "\"Invalidar certificado\"."
 
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
+#: lms/static/js/certificates/views/certificate_allowlist.js
+msgid "Student Removed from certificate allowlist successfully."
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_allowlist.js
+msgid ""
+"Could not find Certificate Exception in the allowlist. Please refresh the "
+"page and try again"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_allowlist.js
+#: lms/static/js/certificates/views/certificate_allowlist_editor.js
+#: lms/static/js/certificates/views/certificate_invalidation_view.js
+msgid "Server Error, Please refresh the page and try again."
+msgstr "Error de servidor, por favor recarga la página e intenta nuevamente."
+
+#: lms/static/js/certificates/views/certificate_allowlist_editor.js
+msgid "<%- user %> already in exception list."
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_allowlist_editor.js
+msgid ""
+"<%- user %> has been successfully added to the exception list. Click "
+"Generate Exception Certificate below to send the certificate."
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid " learners were successfully added to exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid " learner was successfully added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid ""
+" records are not in the correct format and have not been added to the "
+"exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid ""
+" record is not in the correct format and has not been added to the exception"
+" list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid ""
+" learner accounts cannot be found and have not been added to the exception "
+"list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid ""
+" learner account cannot be found and has not been added to the exception "
+"list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid " learners already appear on the exception list in this course"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid " learner already appears on the exception list in this course"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid ""
+" learners are not enrolled in this course and have not added to the "
+"exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid ""
+" learner is not enrolled in this course and has not been added to the "
+"exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid ""
+" learners have an active certificate invalidation in this course and have "
+"not been added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid ""
+" learner has an active certificate invalidation in this course and has not "
+"been added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid " learners encountered unknown errors"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
+msgid " learner encountered an unknown error"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_allowlist.js
 msgid "Uploaded file issues. Click on \"+\" to view."
 msgstr "Problemas con los archivos cargados. Haz clic en \"+\" para ver."
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid " learners are successfully added to exception list"
-msgstr "estudiantes fueron agregados a la lista de excepciones"
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid " learner is successfully added to the exception list"
-msgstr "el estudiante fue agregado a la lista de excepción"
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid " records are not in correct format and not added to the exception list"
-msgstr ""
-"los registros no están en el formato correcto y no se añadieron a la lista "
-"de excepciones"
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid " record is not in correct format and not added to the exception list"
-msgstr ""
-"el registro no está en el formato correcto y no se añadió a la lista de "
-"excepciones"
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid " learners do not exist in LMS and not added to the exception list"
-msgstr ""
-"los estudiantes no existen en el LMS y no se añadieron a la lista de "
-"excepciones"
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid " learner does not exist in LMS and not added to the exception list"
-msgstr ""
-"estudiante no existe en el LMS y no se añadió a la lista de excepciones"
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid " learners are already white listed and not added to the exception list"
-msgstr ""
-"los estudiantes ya están en la lista blanca y no se añadieron a la lista de "
-"excepciones"
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid " learner is already white listed and not added to the exception list"
-msgstr ""
-"el estudiante ya está en la lista blanca y no se añadió a las excepciones"
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid ""
-" learners are not enrolled in course and not added to the exception list"
-msgstr ""
-"los estudiantes no están inscritos en el curso y no se añadieron a la lista "
-"de excepciones"
-
-#: lms/static/js/certificates/views/certificate_bulk_whitelist.js
-msgid " learner is not enrolled in course and not added to the exception list"
-msgstr ""
-"el estudiante no está inscrito en el curso y no se añadió a la lista de "
-"excepciones"
 
 #: lms/static/js/certificates/views/certificate_invalidation_view.js
 msgid ""
@@ -3489,12 +3461,6 @@ msgstr ""
 #: lms/static/js/certificates/views/certificate_invalidation_view.js
 msgid "Certificate has been successfully invalidated for <%= user %>."
 msgstr "Certificado ha sido invalidado exitosamente para <%= user %>."
-
-#: lms/static/js/certificates/views/certificate_invalidation_view.js
-#: lms/static/js/certificates/views/certificate_whitelist.js
-#: lms/static/js/certificates/views/certificate_whitelist_editor.js
-msgid "Server Error, Please refresh the page and try again."
-msgstr "Error de servidor, por favor recarga la página e intenta nuevamente."
 
 #: lms/static/js/certificates/views/certificate_invalidation_view.js
 msgid ""
@@ -3511,31 +3477,6 @@ msgid ""
 msgstr ""
 "No se pudo hallar Invalidación del Certificado en la lista. Por favor, "
 "actualiza la página e intenta nuevamente."
-
-#: lms/static/js/certificates/views/certificate_whitelist.js
-msgid "Student Removed from certificate white list successfully."
-msgstr ""
-"El estudiante fue eliminado exitosamente de la lista blanca de certificados."
-
-#: lms/static/js/certificates/views/certificate_whitelist.js
-msgid ""
-"Could not find Certificate Exception in white list. Please refresh the page "
-"and try again"
-msgstr ""
-"No se pudo encontrar la excepción de certificado en la lista blanca. Por "
-"favor recarga la página e intenta nuevamente."
-
-#: lms/static/js/certificates/views/certificate_whitelist_editor.js
-msgid "<%= user %> already in exception list."
-msgstr "<%= user %> ya se encuentra en la lista de excepciones."
-
-#: lms/static/js/certificates/views/certificate_whitelist_editor.js
-msgid ""
-"<%= user %> has been successfully added to the exception list. Click "
-"Generate Exception Certificate below to send the certificate."
-msgstr ""
-"<%= user %> ha sido añadido a la lista de excepciones. Haz clic en Generar "
-"cerfificado de excepción para enviar este certificado."
 
 #: lms/static/js/course_survey.js
 msgid "There has been an error processing your survey."
@@ -3611,11 +3552,11 @@ msgstr ""
 
 #: lms/static/js/dashboard/legacy.js
 msgid ""
-"The refund deadline for this course has passed,so you will not receive a "
+"The refund deadline for this course has passed, so you will not receive a "
 "refund."
 msgstr ""
-"La fecha límite para reembolso en este curso ya ha pasado, por lo que aún si"
-" realizó un pago, no recibirá devolución de dinero."
+"Tu fecha límite para devolución en este curso ha pasado, por lo que no "
+"recibirás una devolución."
 
 #: lms/static/js/dashboard/legacy.js
 #: lms/static/js/learner_dashboard/views/unenroll_view.js
@@ -3628,11 +3569,11 @@ msgstr ""
 
 #: lms/static/js/demographics_collection/DemographicsCollectionBanner.jsx
 msgid "Want to make edX better for everyone?"
-msgstr ""
+msgstr "¿Quieres hacer que edX sea mejor para todos?"
 
 #: lms/static/js/demographics_collection/DemographicsCollectionBanner.jsx
 msgid "Get started"
-msgstr ""
+msgstr "Comenzar"
 
 #: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
 msgid "Help make edX better for everyone!"
@@ -3640,7 +3581,7 @@ msgstr ""
 
 #: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
 msgid "Why does edX collect this information?"
-msgstr ""
+msgstr "¿Por qué edX recoleta esta información?"
 
 #: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
 msgid ""
@@ -3672,7 +3613,7 @@ msgstr ""
 
 #: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
 msgid "Select employment status"
-msgstr ""
+msgstr "Seleccionar estatus laboral"
 
 #: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
 msgid "What industry do you currently work in?"
@@ -3708,7 +3649,7 @@ msgstr ""
 
 #: lms/static/js/demographics_collection/Wizard.jsx
 msgid "next page"
-msgstr ""
+msgstr "Siguiente página"
 
 #: lms/static/js/discovery/views/search_form.js
 #, javascript-format
@@ -3845,10 +3786,8 @@ msgid "Recent Activity"
 msgstr "Actividad Reciente"
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js
-msgid "No results found for \"%(query_string)s\". Please try searching again."
+msgid "No results found for \"{query_string}\". Please try searching again."
 msgstr ""
-"No se encontraron resultados para \"%(query_string)s\". Por favor intenta "
-"nuevamente."
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore
@@ -4099,6 +4038,10 @@ msgid "Error getting issued certificates list."
 msgstr "Error al obtener la lista de certificados emitidos."
 
 #: lms/static/js/instructor_dashboard/data_download.js
+msgid "Error generating anonymous IDs. Please try again."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/data_download.js
 #: lms/static/js/instructor_dashboard/data_download_2.js
 msgid "Error generating proctored exam results. Please try again."
 msgstr ""
@@ -4318,10 +4261,6 @@ msgid "Reason field should not be left blank."
 msgstr "El campo de Razón no pude dejarse vacío."
 
 #: lms/static/js/instructor_dashboard/membership.js
-msgid "Role field should not be left unselected."
-msgstr "El campo de rol no puede quedar sin ser seleccionado."
-
-#: lms/static/js/instructor_dashboard/membership.js
 msgid "Error enrolling/unenrolling users."
 msgstr "Error al inscribir o desinscribir  usuarios."
 
@@ -4518,13 +4457,10 @@ msgstr ""
 
 #: lms/static/js/instructor_dashboard/student_admin.js
 msgid ""
-"Error resetting problem attempts for problem '<%= problem_id %>' and student"
+"Error resetting problem attempts for problem '<%- problem_id %>' and student"
 " '<%- student_id %>'. Make sure that the problem and student identifiers are"
 " complete and correct."
 msgstr ""
-"Error al reiniciar los envíos para el problema '<%= problem_id %>' y "
-"estudiante '<%- student_id %>'. Asegúrate de que los identificadores del "
-"problema y el estudiante estén completos y correctos."
 
 #: lms/static/js/instructor_dashboard/student_admin.js
 msgid ""
@@ -4847,6 +4783,16 @@ msgstr ""
 "Los vínculos se generan por demanda y expiran en los siguientes 5 minutos "
 "dado a la naturaleza sensible de la información de calificaciones de "
 "estudiantes."
+
+#: lms/static/js/learner_dashboard/EnterpriseLearnerPortalModal.jsx
+msgid ""
+"To access the courses available to you through {enterpriseName}, visit the "
+"{enterpriseName} dashboard."
+msgstr ""
+
+#: lms/static/js/learner_dashboard/EnterpriseLearnerPortalModal.jsx
+msgid "Go to dashboard"
+msgstr "Ir al panel principal"
 
 #: lms/static/js/learner_dashboard/models/course_card_model.js
 msgid "(Self-paced) Starts {start}"
@@ -6131,7 +6077,6 @@ msgid "Re-run Course"
 msgstr "Relanzar Curso"
 
 #: cms/static/js/features_jsx/studio/CourseOrLibraryListing.jsx
-#: cms/templates/js/show-textbook.underscore
 msgid "View Live"
 msgstr "Ver en vivo"
 
@@ -6266,10 +6211,8 @@ msgid "Please enter non-negative integer."
 msgstr "Por favor ingrese un número entero no negativo."
 
 #: cms/static/js/models/settings/course_grader.js
-msgid "Cannot drop more <%= types %> assignments than are assigned."
+msgid "Cannot drop more <%- types %> assignments than are assigned."
 msgstr ""
-"No se pueden borrar más asignaciones de <%= types %> de los que son "
-"asignados."
 
 #: cms/static/js/models/settings/course_grading_policy.js
 msgid "Grace period must be specified in HH:MM format."
@@ -6386,8 +6329,7 @@ msgstr ""
 msgid "Your file has been deleted."
 msgstr "Su archivo ha sido borrado."
 
-#: cms/static/js/views/assets.js cms/templates/js/asset-library.underscore
-#: cms/templates/js/previous-video-upload-list.underscore
+#: cms/static/js/views/assets.js
 msgid "Date Added"
 msgstr "Fecha añadida"
 
@@ -6414,7 +6356,6 @@ msgid "Max file size exceeded"
 msgstr "Tamaño maximo del archivo excedido"
 
 #: cms/static/js/views/assets.js
-#: cms/templates/js/asset-upload-modal.underscore
 msgid "Upload New File"
 msgstr "Subir nuevo archivo"
 
@@ -6468,7 +6409,6 @@ msgid "Settings updated"
 msgstr "Configuraciones actualizadas"
 
 #: cms/static/js/views/course_video_settings.js
-#: cms/templates/js/course-video-settings-update-settings-footer.underscore
 msgid "Last updated"
 msgstr "Última actualización"
 
@@ -6598,7 +6538,7 @@ msgstr "Subir imagen del instructor."
 msgid "Files must be in JPEG or PNG format."
 msgstr "Los archivos deben estar en formato JPEG o PNG."
 
-#: cms/static/js/views/license.js cms/templates/js/license-selector.underscore
+#: cms/static/js/views/license.js
 msgid "All Rights Reserved"
 msgstr "Todos los derechos reservados"
 
@@ -6745,8 +6685,6 @@ msgid "Publish all unpublished changes for this {item}?"
 msgstr "Publicar todos los cambios no publicados para este {item}?"
 
 #: cms/static/js/views/modals/course_outline_modals.js
-#: cms/templates/js/course-outline.underscore
-#: cms/templates/js/publish-xblock.underscore
 msgid "Publish"
 msgstr "Publicar"
 
@@ -6755,8 +6693,8 @@ msgid "Highlights for {display_name}"
 msgstr "Destacados por {display_name}"
 
 #: cms/static/js/views/modals/course_outline_modals.js
-msgid "Enable Weekly Highlight Emails"
-msgstr "Habilitar correos destacados semanalmente"
+msgid "Enable Course Highlight Emails"
+msgstr ""
 
 #: cms/static/js/views/modals/course_outline_modals.js
 msgid "Enable"
@@ -6795,6 +6733,10 @@ msgstr "Unidad"
 #: cms/static/js/views/modals/edit_xblock.js
 msgid "Component"
 msgstr "Componente"
+
+#: cms/static/js/views/modals/edit_xblock.js
+msgid "Studio's having trouble parsing the problem component's content"
+msgstr ""
 
 #: cms/static/js/views/modals/move_xblock_modal.js
 msgid "Move"
@@ -6837,7 +6779,6 @@ msgid "Components"
 msgstr "Componentes"
 
 #: cms/static/js/views/move_xblock_list.js
-#: cms/templates/js/group-configuration-editor.underscore
 msgid "Groups"
 msgstr "Grupos"
 
@@ -6846,8 +6787,6 @@ msgid "This {parentCategory} has no {childCategory}"
 msgstr "Esta {parentCategory} no tiene {childCategory}"
 
 #: cms/static/js/views/move_xblock_list.js
-#: cms/templates/js/group-configuration-details.underscore
-#: cms/templates/js/partition-group-details.underscore
 msgid "Course Outline"
 msgstr "Estructura del curso"
 
@@ -6866,9 +6805,6 @@ msgid "Publishing"
 msgstr "Publicando"
 
 #: cms/static/js/views/pages/container_subviews.js
-#: cms/templates/js/course-video-settings-update-org-credentials-footer.underscore
-#: cms/templates/js/course-video-settings-update-settings-footer.underscore
-#: cms/templates/js/publish-xblock.underscore
 msgid "Discard Changes"
 msgstr "Descartar cambios"
 
@@ -7089,8 +7025,6 @@ msgstr ""
 "deshacer."
 
 #: cms/static/js/views/uploads.js
-#: cms/templates/js/metadata-file-uploader-item.underscore
-#: cms/templates/js/video/metadata-translations-item.underscore
 msgid "Upload"
 msgstr "Subir"
 
@@ -7176,7 +7110,6 @@ msgid "subsection"
 msgstr "subsección"
 
 #: cms/static/js/views/utils/xblock_utils.js
-#: cms/templates/js/container-access.underscore
 msgid "unit"
 msgstr "unidad"
 
@@ -7405,7 +7338,6 @@ msgstr ""
 "{supportedFileFormat}."
 
 #: cms/static/js/views/video_transcripts.js
-#: cms/templates/js/video-transcripts.underscore
 msgid "{transcriptClientTitle}_{transcriptLanguageCode}.{fileExtension}"
 msgstr "{transcriptClientTitle}_{transcriptLanguageCode}.{fileExtension}"
 
@@ -7478,8 +7410,8 @@ msgstr "Anterior"
 
 #: cms/templates/js/previous-video-upload-list.underscore
 #: lms/djangoapps/support/static/support/templates/manage_user.underscore
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
 msgid "Action"
 msgstr "Acción"
 
@@ -7634,7 +7566,7 @@ msgstr "Actualiza respuesta"
 #: common/static/common/templates/discussion/templates.underscore
 #, python-format
 msgid "posted %(time_ago)s by %(author)s"
-msgstr "publicado hace %(time_ago)s por %(author)s"
+msgstr "publicado %(time_ago)s por %(author)s"
 
 #: common/static/common/templates/discussion/templates.underscore
 msgid "Editing comment"
@@ -7903,8 +7835,8 @@ msgid "course id"
 msgstr "Id de Curso"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
 msgid "No results"
 msgstr "Sin resultados"
 
@@ -8134,7 +8066,7 @@ msgstr "Unirse al equipo"
 
 #: lms/djangoapps/teams/static/teams/templates/team-profile.underscore
 msgid "Team Assignments"
-msgstr ""
+msgstr "Tareas en equipo"
 
 #: lms/djangoapps/teams/static/teams/templates/team-profile.underscore
 msgid "Team Details"
@@ -8393,11 +8325,71 @@ msgstr ""
 msgid "Go to Dashboard"
 msgstr "Ir al panel de control"
 
-#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-white-list.underscore
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore
+msgid "Individual Exceptions"
+msgstr "Excepciones individuales"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore
+msgid ""
+"Enter the username or email address of each learner that you want to add as "
+"an exception."
+msgstr ""
+"Ingrese el nombre de usuario y correo electrónico de cada estudiante que "
+"quiere agregar como excepción "
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore
+msgid "Student email or username"
+msgstr "Correo electrónico o nombre de usuario del estudiante"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore
+msgid "Free text notes"
+msgstr "Notas o comentarios"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore
+#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-allowlist.underscore
+msgid "Add to Exception List"
+msgstr "Agregar a lista de excepciones"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
+msgid "Generate Exception Certificates"
+msgstr "Generar excepciones de certificados"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
+msgid "All users on the Exception list who do not yet have a certificate"
+msgstr ""
+"Todos los usuarios en la Lista de Excepción quienes aun no tienen un "
+"certificado"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
+msgid "All users on the Exception list"
+msgstr "Todos los usuarios en la Lista de Excepción"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
+msgid "User Email"
+msgstr "Correo electrónico del usuario"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
+msgid "Exception Granted"
+msgstr "Acceso concedido"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
+msgid "Certificate Generated"
+msgstr "Certificado generado"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
+#: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore
+msgid "Notes"
+msgstr "Notas"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
+msgid "Remove from List"
+msgstr "Remover de la lista"
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-allowlist.underscore
 msgid "Bulk Exceptions"
 msgstr "Excepciones en lote"
 
-#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-white-list.underscore
+#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-allowlist.underscore
 msgid ""
 "Upload a comma separated values (.csv) file that contains the usernames or "
 "email addresses of learners who have been given exceptions. Include the "
@@ -8411,14 +8403,9 @@ msgstr ""
 "el primer campo. Puede incluir además en un segundo campo, una nota opcional"
 " describiendo la razón para otorgar la excepción."
 
-#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-white-list.underscore
+#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-allowlist.underscore
 msgid "Upload a CSV file"
 msgstr "Cargar un archivo CSV"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-white-list.underscore
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list-editor.underscore
-msgid "Add to Exception List"
-msgstr "Agregar a lista de excepciones"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore
 msgid ""
@@ -8449,63 +8436,8 @@ msgid "Invalidated"
 msgstr "Invalidado"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
-msgid "Notes"
-msgstr "Notas"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore
 msgid "Remove from Invalidation Table"
 msgstr "Remover de la tabla de invalidaciones"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list-editor.underscore
-msgid "Individual Exceptions"
-msgstr "Excepciones individuales"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list-editor.underscore
-msgid ""
-"Enter the username or email address of each learner that you want to add as "
-"an exception."
-msgstr ""
-"Ingrese el nombre de usuario y correo electrónico de cada estudiante que "
-"quiere agregar como excepción "
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list-editor.underscore
-msgid "Student email or username"
-msgstr "Correo electrónico o nombre de usuario del estudiante"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list-editor.underscore
-msgid "Free text notes"
-msgstr "Notas o comentarios"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
-msgid "Generate Exception Certificates"
-msgstr "Generar excepciones de certificados"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
-msgid "All users on the Exception list who do not yet have a certificate"
-msgstr ""
-"Todos los usuarios en la Lista de Excepción quienes aun no tienen un "
-"certificado"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
-msgid "All users on the Exception list"
-msgstr "Todos los usuarios en la Lista de Excepción"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
-msgid "User Email"
-msgstr "Correo electrónico del usuario"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
-msgid "Exception Granted"
-msgstr "Acceso concedido"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
-msgid "Certificate Generated"
-msgstr "Certificado generado"
-
-#: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
-msgid "Remove from List"
-msgstr "Remover de la lista"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-discussions-subcategory.underscore
 msgid "Divided"
@@ -8995,27 +8927,27 @@ msgstr "Ocurrió un error. Por favor recargue la página."
 
 #: lms/templates/student_account/form_field.underscore
 msgid "Need help signing in?"
-msgstr ""
+msgstr "¿Necesita ayuda para iniciar sesión?"
 
 #: lms/templates/student_account/form_field.underscore
 msgid "Forgot my password"
-msgstr ""
+msgstr "Olvidé mi contraseña"
 
 #: lms/templates/student_account/form_field.underscore
 msgid "Other sign-in issues"
-msgstr ""
+msgstr "Otros problemas para iniciar sesión"
 
 #: lms/templates/student_account/form_field.underscore
 msgid "Sign in with your company or school"
-msgstr ""
+msgstr "Iniciar sesion con su compañía o escuela"
 
 #: lms/templates/student_account/form_field.underscore
 msgid "Need other help signing in?"
-msgstr ""
+msgstr "¿Necesita otra ayuda para iniciar sesión?"
 
 #: lms/templates/student_account/form_field.underscore
 msgid "Create an account"
-msgstr ""
+msgstr "Crear una cuenta"
 
 #: lms/templates/student_account/hinted_login.underscore
 #: lms/templates/student_account/login.underscore
@@ -9598,8 +9530,8 @@ msgid ""
 "An email has been sent to {userEmail} with a link for you to activate your "
 "account."
 msgstr ""
-"Un correo electrónico ha sido enviado a su {userEmail} con un enlaze para "
-"activar su cuenta."
+"Un correo electrónico ha sido enviado a su correo {userEmail} con un enlace "
+"para activar su cuenta."
 
 #: lms/templates/verify_student/make_payment_step.underscore
 msgid "Why activate?"
@@ -9914,1804 +9846,3 @@ msgstr ""
 "{download_link_start}descargar esta imagen (clic derecho, guardar "
 "como){link_end} y luego {upload_link_start} carguela {link_end} a su bolsa "
 "en Mozilla Backpack."
-
-#: cms/templates/js/access-editor.underscore
-msgid "Limit Access"
-msgstr "Restrinja permisos"
-
-#: cms/templates/js/access-editor.underscore
-msgid ""
-"Select a prerequisite subsection and enter a minimum score percentage and "
-"minimum completion percentage to limit access to this subsection. Allowed "
-"values are 0-100"
-msgstr ""
-"Seleccione una sub-sección con prerrequisito e ingrese un porcentaje de "
-"calificación mínimo y un porcentaje mínimo a ser completado para limitar el "
-"acceso a esta sub-sección. Los valores permitidos son de 0 a 100."
-
-#: cms/templates/js/access-editor.underscore
-msgid "Prerequisite:"
-msgstr "Prerrequisito"
-
-#: cms/templates/js/access-editor.underscore
-msgid "No prerequisite"
-msgstr "Sin prerrequisitos"
-
-#: cms/templates/js/access-editor.underscore
-msgid "Minimum Score:"
-msgstr "Nota mínima"
-
-#: cms/templates/js/access-editor.underscore
-msgid "Minimum Completion:"
-msgstr "Valor mínimo a completar:"
-
-#: cms/templates/js/access-editor.underscore
-msgid "The minimum score percentage must be a whole number between 0 and 100."
-msgstr "La nota mínima para aprobar debe ser un número entero entre 0 y 100."
-
-#: cms/templates/js/access-editor.underscore
-msgid ""
-"The minimum completion percentage must be a whole number between 0 and 100."
-msgstr ""
-"El porcentaje mínimo a completar debe ser un número entero entre 0 y 100. "
-
-#: cms/templates/js/access-editor.underscore
-msgid "Use as a Prerequisite"
-msgstr "Utilice como prerrequisito"
-
-#: cms/templates/js/access-editor.underscore
-msgid "Make this subsection available as a prerequisite to other content"
-msgstr "Deje disponible esta sección como prerrequisito de otro contenido"
-
-#: cms/templates/js/active-video-upload-list.underscore
-msgid "Active Uploads"
-msgstr "Cargas activas"
-
-#: cms/templates/js/active-video-upload.underscore
-msgid "Read More"
-msgstr "Leer mas"
-
-#: cms/templates/js/active-video-upload.underscore
-msgid "details about the failure"
-msgstr "detalles sobre la falla"
-
-#: cms/templates/js/add-xblock-component-button.underscore
-msgid "Add Component:"
-msgstr "Añadir Componente:"
-
-#: cms/templates/js/add-xblock-component-menu-problem.underscore
-#: cms/templates/js/add-xblock-component-menu.underscore
-#, python-format
-msgid "%(type)s Component Template Menu"
-msgstr "Plantilla de menú de componentes %(type)s"
-
-#: cms/templates/js/add-xblock-component-menu-problem.underscore
-msgid "Common Problem Types"
-msgstr "Tipos de problemas comunes"
-
-#: cms/templates/js/add-xblock-component-support-legend.underscore
-msgid "Supported"
-msgstr "Soportado"
-
-#: cms/templates/js/add-xblock-component-support-legend.underscore
-msgid "Provisional"
-msgstr "Provisional"
-
-#: cms/templates/js/add-xblock-component-support-legend.underscore
-#: cms/templates/js/add-xblock-component-support-level.underscore
-msgid "Not Supported"
-msgstr "No soportado"
-
-#: cms/templates/js/add-xblock-component-support-level.underscore
-msgid "Fully Supported"
-msgstr "Completamente soportado"
-
-#: cms/templates/js/add-xblock-component-support-level.underscore
-msgid "Provisionally Supported"
-msgstr "Soportado de forma provisional"
-
-#: cms/templates/js/add-xblock-component.underscore
-msgid "Add New Component"
-msgstr "Añadir nuevo Componente"
-
-#: cms/templates/js/advanced_entry.underscore
-msgid "Deprecated"
-msgstr "Descontinuado"
-
-#: cms/templates/js/asset-library.underscore
-msgid "List of uploaded files and assets in this course"
-msgstr "Lista de archivos y recursos cargados en este curso"
-
-#: cms/templates/js/asset-library.underscore
-msgid "- Sortable"
-msgstr "- Ordenable"
-
-#: cms/templates/js/asset-library.underscore
-msgid "Show All"
-msgstr "Mostrar todo"
-
-#: cms/templates/js/asset-library.underscore
-msgid "You haven't added any assets to this course yet."
-msgstr "No ha añadido aún ningún recurso a este curso."
-
-#: cms/templates/js/asset-library.underscore
-msgid "Upload your first asset"
-msgstr "Subir su primer recurso"
-
-#: cms/templates/js/asset-upload-modal.underscore
-msgid "close"
-msgstr "cerrar"
-
-#: cms/templates/js/asset.underscore
-msgid "No description available"
-msgstr "No hay descripción disponible"
-
-#: cms/templates/js/asset.underscore
-msgid "Open/download this file"
-msgstr "Abrir / descargar este archivo"
-
-#: cms/templates/js/asset.underscore
-msgid "Studio:"
-msgstr "Studio:"
-
-#: cms/templates/js/asset.underscore
-msgid "Web:"
-msgstr "Web:"
-
-#: cms/templates/js/asset.underscore
-msgid "Delete this asset"
-msgstr "Borrar este objeto"
-
-#: cms/templates/js/asset.underscore
-msgid "Lock this asset"
-msgstr "Bloquear este recurso"
-
-#: cms/templates/js/asset.underscore
-msgid "Lock/unlock file"
-msgstr "Bloquear / Desbloquear recurso"
-
-#: cms/templates/js/certificate-details.underscore
-#: cms/templates/js/group-configuration-details.underscore
-#: cms/templates/js/partition-group-details.underscore
-msgid "ID"
-msgstr "ID"
-
-#: cms/templates/js/certificate-details.underscore
-#: cms/templates/js/certificate-editor.underscore
-msgid "Certificate Details"
-msgstr "Detalles del certificado"
-
-#: cms/templates/js/certificate-details.underscore
-#: cms/templates/js/certificate-editor.underscore
-msgid "Course Title"
-msgstr "Título del curso"
-
-#: cms/templates/js/certificate-details.underscore
-#: cms/templates/js/certificate-editor.underscore
-msgid "Course Title Override"
-msgstr "Reemplazo para el título del curso"
-
-#: cms/templates/js/certificate-details.underscore
-msgid "Course Number"
-msgstr "Código del curso"
-
-#: cms/templates/js/certificate-details.underscore
-msgid "Course Number Override"
-msgstr "Reemplazo para el número de curso"
-
-#: cms/templates/js/certificate-details.underscore
-#: cms/templates/js/certificate-editor.underscore
-msgid "Certificate Signatories"
-msgstr "Signatarios del certificado"
-
-#: cms/templates/js/certificate-details.underscore
-#: cms/templates/js/certificate-editor.underscore
-msgid ""
-"It is strongly recommended that you include four or fewer signatories. If "
-"you include additional signatories, preview the certificate in Print View to"
-" ensure the certificate will print correctly on one page."
-msgstr ""
-"Se recomienda que incluya cuatro signatarios o menos. Si incluye signatarios"
-" adicionales, verifique la vista previa del certificado para asegurarse que "
-"se vea correctamente en una sola página."
-
-#: cms/templates/js/certificate-editor.underscore
-msgid "Certificate Information"
-msgstr "Información del certificado"
-
-#: cms/templates/js/certificate-editor.underscore
-msgid "Certificate Name"
-msgstr "Nombre del certificado"
-
-#: cms/templates/js/certificate-editor.underscore
-msgid "Name of the certificate"
-msgstr "Nombre del certificado"
-
-#: cms/templates/js/certificate-editor.underscore
-msgid "Description of the certificate"
-msgstr "Descripción del certificado"
-
-#: cms/templates/js/certificate-editor.underscore
-msgid "Course title"
-msgstr "Título del curso"
-
-#: cms/templates/js/certificate-editor.underscore
-msgid ""
-"Specify an alternative to the official course title to display on "
-"certificates. Leave blank to use the official course title."
-msgstr ""
-"Especificar una alternativa al título oficial del curso para ser visualizado"
-" en los certificados. Dejar vacío para utilizar el título oficial del curso."
-
-#: cms/templates/js/certificate-editor.underscore
-msgid "Add Additional Signatory"
-msgstr "Añadir signatario adicional"
-
-#: cms/templates/js/certificate-editor.underscore
-msgid "(Add signatories for a certificate)"
-msgstr "(Añadir signatarios para el certificado)"
-
-#: cms/templates/js/certificate-web-preview.underscore
-msgid "Choose mode"
-msgstr "Elegir modo"
-
-#: cms/templates/js/certificate-web-preview.underscore
-msgid "Preview Certificate"
-msgstr "Previsualizar certificado"
-
-#: cms/templates/js/certificate-web-preview.underscore
-msgid "Activate"
-msgstr "Activar"
-
-#: cms/templates/js/certificate-web-preview.underscore
-msgid "Deactivate"
-msgstr "Desactivar"
-
-#: cms/templates/js/container-access.underscore
-msgid "component"
-msgstr "componente"
-
-#: cms/templates/js/container-access.underscore
-msgid "Access to this {blockType} is restricted to: {selectedGroupsLabel}"
-msgstr ""
-"El acceso a este {blockType} está restringido a: {selectedGroupsLabel}"
-
-#: cms/templates/js/container-access.underscore
-msgid ""
-"Access to some content in this {blockType} is restricted to specific groups "
-"of learners."
-msgstr ""
-"El acceso a algunos contenidos en este {blockType} está restringido a grupos"
-" específicos de estudiantes."
-
-#: cms/templates/js/container-message.underscore
-msgid ""
-"Caution: The last published version of this unit is live. By publishing "
-"changes you will change the student experience."
-msgstr ""
-"Atención: La última versión publicada de esta unidad está en vivo. Al "
-"publicar los cambios, cambiará la experiencia de los estudiantes."
-
-#: cms/templates/js/content-group-editor.underscore
-msgid "Content Group Name"
-msgstr "Content Group Name"
-
-#: cms/templates/js/content-group-editor.underscore
-msgid "Content Group ID"
-msgstr "ID de Contenido de Grupo"
-
-#: cms/templates/js/content-group-editor.underscore
-msgid "This is the name of the group"
-msgstr "Este es el nombre del grupo"
-
-#: cms/templates/js/content-group-editor.underscore
-msgid "This content group is used in one or more units."
-msgstr "Este contenido de grupo es usado en uno o mas unidades."
-
-#: cms/templates/js/content-group-editor.underscore
-#: cms/templates/js/partition-group-details.underscore
-msgid "Cannot delete when in use by a unit"
-msgstr "No puede borrar cuando esta en uso por una unidad"
-
-#: cms/templates/js/content-visibility-editor.underscore
-msgid "Subsection Visibility"
-msgstr "Visibilidad de la subsección"
-
-#: cms/templates/js/content-visibility-editor.underscore
-msgid "Show entire subsection"
-msgstr "Mostrar toda la subsección"
-
-#: cms/templates/js/content-visibility-editor.underscore
-msgid "Learners see the published subsection and can access its content."
-msgstr ""
-"Los estudiantes pueden ver la subsección publicada y acceder a su contenido"
-
-#: cms/templates/js/content-visibility-editor.underscore
-msgid "Hide content after course end date"
-msgstr "Ocultar el contenido después de la fecha límite"
-
-#: cms/templates/js/content-visibility-editor.underscore
-msgid "Hide content after due date"
-msgstr "Ocultar el contenido después de la fecha límite"
-
-#: cms/templates/js/content-visibility-editor.underscore
-msgid ""
-"After the course\\'s end date has passed, learners can no longer access "
-"subsection content. The subsection remains included in grade calculations."
-msgstr ""
-"Después que la fecha de caducidad del curso haya pasado, los estudiantes ya "
-"no pueden acceder a las subsección del contenido. La subsección permanece "
-"incluida en el cálculo del grado."
-
-#: cms/templates/js/content-visibility-editor.underscore
-msgid ""
-"After the subsection\\'s due date has passed, learners can no longer access "
-"its content. The subsection remains included in grade calculations."
-msgstr ""
-"Después de que la fecha límite para la subsección haya pasado, los "
-"estudiantes ya no podrán acceder a su contenido. La subsección sigue "
-"incluida en los cálculos de calificaciones."
-
-#: cms/templates/js/content-visibility-editor.underscore
-msgid "Hide entire subsection"
-msgstr "Ocultar toda la subsección"
-
-#: cms/templates/js/content-visibility-editor.underscore
-msgid ""
-"Learners do not see the subsection in the course outline. The subsection is "
-"not included in grade calculations."
-msgstr ""
-"Los estudiantes no ven la subsección en el esquema del curso. La subsección "
-"no se incluye en los cálculos de calificaciones."
-
-#: cms/templates/js/content-visibility-editor.underscore
-#, python-format
-msgid ""
-"If you select an option other than \"%(hide_label)s\", published units in "
-"this subsection become available to learners unless they are explicitly "
-"hidden."
-msgstr ""
-"Si selecciona esta opción distinta a \"%(hide_label)s\", \n"
-"las unidades publicadas en este subsección pasarán a estar disponible para los estudiantes a menos que están explícitamente ocultas."
-
-#: cms/templates/js/copy-clipboard-button.underscore
-msgid "Copy Component Location"
-msgstr "Copiar la ubicación del Componente"
-
-#: cms/templates/js/course-highlights-enable.underscore
-msgid "Weekly Highlight Emails"
-msgstr "correos destacados semanalmente"
-
-#: cms/templates/js/course-highlights-enable.underscore
-msgid "Enabled"
-msgstr "Habilitado"
-
-#: cms/templates/js/course-highlights-enable.underscore
-msgid "Enable Now"
-msgstr "Habilitar ahora"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Instructor Name"
-msgstr "Nombre del instructor"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Please add the instructor's name"
-msgstr "Ingrese el nombre del instructor"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Instructor Title"
-msgstr "Título del instructor"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Please add the instructor's title"
-msgstr "Ingrese el título del instructor"
-
-#: cms/templates/js/course-instructor-details.underscore
-#: cms/templates/js/signatory-details.underscore
-msgid "Organization"
-msgstr "Organización"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Organization Name"
-msgstr "Nombre de la organización"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Please add the institute where the instructor is associated"
-msgstr "Ingrese la institución con la que el instructor está asociado"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Biography"
-msgstr "Biografía"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Instructor Biography"
-msgstr "Biografía del instructor"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Please add the instructor's biography"
-msgstr "Por favor ingrese la biografía del instructor"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Photo"
-msgstr "Foto"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Instructor Photo"
-msgstr "Foto del instructor"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Instructor Photo URL"
-msgstr "URL de la foto del instructor"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid ""
-"Please add a photo of the instructor (Note: only JPEG or PNG format "
-"supported)"
-msgstr ""
-"Por favor proporcione una foto del instructor. (Nota: sólo se admite formato"
-" JPEG o PNG)"
-
-#: cms/templates/js/course-instructor-details.underscore
-msgid "Upload Photo"
-msgstr "Subir foto"
-
-#: cms/templates/js/course-outline.underscore
-#, python-format
-msgid "Prerequisite: %(prereq_display_name)s"
-msgstr "Prerrequisito: %(prereq_display_name)s "
-
-#: cms/templates/js/course-outline.underscore
-msgid "Contains staff only content"
-msgstr "Contiene solo contenido del equipo del curso"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Unpublished changes to live content"
-msgstr "Cambios no publicados en el contenido en vivo"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Unpublished units will not be released"
-msgstr "Las unidades no publicadas no serán liberadas"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Unpublished changes to content that will release in the future"
-msgstr "Cambios no publicados del contenido que será liberado en el futuro"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Access to this unit is restricted to: {selectedGroupsLabel}"
-msgstr "El acceso a esta unidad está restringida a: {selectedGroupsLabel}"
-
-#: cms/templates/js/course-outline.underscore
-msgid ""
-"Access to some content in this unit is restricted to specific groups of "
-"learners"
-msgstr ""
-"Acceso a ciertos contenidos en esta unidad está restringido a grupos "
-"específicos de estudiantes."
-
-#: cms/templates/js/course-outline.underscore
-msgid "Ungraded"
-msgstr "No calificado"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Onboarding Exam"
-msgstr "Examen de Integración"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Practice proctored Exam"
-msgstr "Practica de examen supervisado"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Proctored Exam"
-msgstr "Examen supervisado"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Timed Exam"
-msgstr "Examen cronometrado"
-
-#: cms/templates/js/course-outline.underscore
-#: cms/templates/js/xblock-outline.underscore
-#, python-format
-msgid "Collapse/Expand this %(xblock_type)s"
-msgstr "Contraer/Expandir esta %(xblock_type)s"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Display Name"
-msgstr "Nombre para mostrar:"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Proctoring Settings"
-msgstr "Configuración de supervisión"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Configure"
-msgstr "Configurar"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Duplicate"
-msgstr "Duplicar"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Drag to reorder"
-msgstr "Arrastre para reorganizar"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Release Status:"
-msgstr "Estado de liberación:"
-
-#: cms/templates/js/course-outline.underscore
-#: cms/templates/js/publish-xblock.underscore
-#: cms/templates/js/xblock-outline.underscore
-msgid "Released:"
-msgstr "Liberado:"
-
-#: cms/templates/js/course-outline.underscore
-#: cms/templates/js/publish-xblock.underscore
-msgid "Scheduled:"
-msgstr "Programado:"
-
-#: cms/templates/js/course-outline.underscore
-#: cms/templates/js/highlights-editor.underscore
-msgid "Section Highlights"
-msgstr "Destacados de la sección"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Graded as:"
-msgstr "Calificado como:"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Due:"
-msgstr "Fecha de entrega:"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Subsection is hidden after course end date"
-msgstr ""
-"La subsección está oculta después de la fecha de terminación del curso."
-
-#: cms/templates/js/course-outline.underscore
-msgid "Subsection is hidden after due date"
-msgstr "La subsección estará oculta después de la fecha límite"
-
-#: cms/templates/js/course-outline.underscore
-#: cms/templates/js/xblock-outline.underscore
-msgid "You haven't added any content to this course yet."
-msgstr "Todavía no ha añadido ningún contenido a este curso."
-
-#: cms/templates/js/course-outline.underscore
-#: cms/templates/js/xblock-outline.underscore
-#, python-format
-msgid "Click to add a new %(xblock_type)s"
-msgstr "Haga clic para añadir una nueva %(xblock_type)s"
-
-#: cms/templates/js/course-settings-learning-fields.underscore
-msgid "Learning Outcome"
-msgstr "Resultado de aprendizaje"
-
-#: cms/templates/js/course-settings-learning-fields.underscore
-msgid "Add a learning outcome here"
-msgstr "Agregar Resultado de aprendizaje"
-
-#: cms/templates/js/course-video-settings-update-org-credentials-footer.underscore
-msgid "Press discard changes to discard your changes."
-msgstr "Seleccione descartar cambios para descartar los cambios realizados"
-
-#: cms/templates/js/course-video-settings-update-org-credentials-footer.underscore
-#: cms/templates/js/course-video-settings-update-settings-footer.underscore
-msgid "Update Settings"
-msgstr "Actualizar ajustes"
-
-#: cms/templates/js/course-video-settings-update-org-credentials-footer.underscore
-msgid "Press update settings to update the information for your organization."
-msgstr ""
-"Seleccione actualizar ajustes para actualizar la información de su "
-"organización"
-
-#: cms/templates/js/course-video-settings-update-settings-footer.underscore
-msgid "Press discard changes to discard changes."
-msgstr "Seleccione descartar cambios para descartar los cambios realizados"
-
-#: cms/templates/js/course-video-settings-update-settings-footer.underscore
-msgid "Press update settings to update course video settings"
-msgstr ""
-"Seleccione actualizar ajustes para actualizar los ajustes de vídeo del curso"
-
-#: cms/templates/js/course-video-settings.underscore
-msgid "Press close to hide course video settings"
-msgstr "Seleccione cerrar para ocultar los ajustes de vídeo del curso"
-
-#: cms/templates/js/course-video-settings.underscore
-msgid "Course Video Settings"
-msgstr "Ajustes de vídeo del curso"
-
-#: cms/templates/js/course-video-transcript-preferences.underscore
-msgid "Transcript Turnaround"
-msgstr "Tiempo de procesamiento de la transcripción"
-
-#: cms/templates/js/course-video-transcript-preferences.underscore
-msgid "Transcript Fidelity"
-msgstr "Fidelidad de la transcripción"
-
-#: cms/templates/js/course-video-transcript-preferences.underscore
-msgid "Video Source Language"
-msgstr "Idioma de la fuente del video"
-
-#: cms/templates/js/course-video-transcript-preferences.underscore
-msgid "Transcript Languages"
-msgstr "Idiomas de Transcripción"
-
-#: cms/templates/js/course-video-transcript-preferences.underscore
-#: cms/templates/js/metadata-dict-entry.underscore
-#: cms/templates/js/metadata-list-entry.underscore
-#: cms/templates/js/video/metadata-translations-entry.underscore
-msgid "Add"
-msgstr "Añadir"
-
-#: cms/templates/js/course-video-transcript-preferences.underscore
-msgid "Press Add to language"
-msgstr "Seleccione Añadir para idioma"
-
-#: cms/templates/js/course-video-transcript-provider-empty.underscore
-msgid "Automated Transcripts"
-msgstr "Transcripciones automatizadas"
-
-#: cms/templates/js/course-video-transcript-provider-selected.underscore
-msgid "Transcript Provider"
-msgstr "Proveedor de la transcripción"
-
-#: cms/templates/js/course-video-transcript-provider-selected.underscore
-msgid "Change"
-msgstr "Cambiar"
-
-#: cms/templates/js/course-video-transcript-provider-selected.underscore
-msgid "Press change to change selected transcript provider."
-msgstr ""
-"Seleccione cambiar para cambiar el proveedor de transcripción seleccionado"
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid "Assignment Type Name"
-msgstr "Nombre del tipo de tarea"
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid ""
-"The general category for this type of assignment, for example, Homework or "
-"Midterm Exam. This name is visible to learners."
-msgstr ""
-"La categoría general para este tipo de asignación, por ejemplo, Tareas o "
-"Examen trimestral. Este nombre es visible a los estudiantes."
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid "Abbreviation"
-msgstr "Abreviatura"
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid ""
-"This short name for the assignment type (for example, HW or Midterm) appears"
-" next to assignments on a learner's Progress page."
-msgstr ""
-"Estos nombres para los tipos de asignaciones (por ejemplo, Tareas o Examen "
-"trimestral) aparecen al lado de las asignaciones en la página de Progreso "
-"del estudiante."
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid "Weight of Total Grade"
-msgstr "Peso en la calificación total"
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid ""
-"The weight of all assignments of this type as a percentage of the total "
-"grade, for example, 40. Do not include the percent symbol."
-msgstr ""
-"El peso de todas las asignaciones de este tipo como porcentaje de la "
-"calificación total, por ejemplo, 40. No incluya el símbolo de porcentaje."
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid "Total Number"
-msgstr "Número total"
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid ""
-"The number of subsections in the course that contain problems of this "
-"assignment type."
-msgstr ""
-"El número de subdivisiones del curso que contiene problemas de este tipo de "
-"asignación."
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid "Number of Droppable"
-msgstr "Cantidad de ejercicios excluibles"
-
-#: cms/templates/js/course_grade_policy.underscore
-msgid ""
-"The number of assignments of this type that will be dropped. The lowest "
-"scoring assignments are dropped first."
-msgstr ""
-"El número de asignaciones de este tipo que serán descartados. Las "
-"asignaciones con calificaciones más bajas serán las primeras en ser "
-"descartadas."
-
-#: cms/templates/js/course_info_handouts.underscore
-msgid "Course Handouts"
-msgstr "Materiales del curso"
-
-#: cms/templates/js/course_info_handouts.underscore
-msgid "You have no handouts defined"
-msgstr "No tiene Materiales denifidos"
-
-#: cms/templates/js/course_info_handouts.underscore
-msgid ""
-"There is invalid code in your content. Please check to make sure it is valid"
-" HTML."
-msgstr ""
-"Hay código invalido en su contenido. Por favor verifique la validez del HTML"
-
-#: cms/templates/js/course_info_update.underscore
-msgid "Date"
-msgstr ""
-
-#: cms/templates/js/course_info_update.underscore
-msgid "Post"
-msgstr "Publicación"
-
-#: cms/templates/js/due-date-editor.underscore
-msgid "Due Date:"
-msgstr "Fecha límite:"
-
-#: cms/templates/js/due-date-editor.underscore
-msgid "Due Time in UTC:"
-msgstr "Hora límite en UTC:"
-
-#: cms/templates/js/due-date-editor.underscore
-msgid "Clear Grading Due Date"
-msgstr "Borrar la fecha límite de calificación"
-
-#: cms/templates/js/edit-chapter.underscore
-msgid "Chapter Name"
-msgstr "Nombre del capítulo"
-
-#: cms/templates/js/edit-chapter.underscore
-msgid "Chapter {order}"
-msgstr "Capítulo {order}"
-
-#: cms/templates/js/edit-chapter.underscore
-msgid "provide the title/name of the chapter that will be used in navigating"
-msgstr "Ingrese el título / nombre del capítulo que se usará"
-
-#: cms/templates/js/edit-chapter.underscore
-msgid "Chapter Asset"
-msgstr "Recursos del capítulo"
-
-#: cms/templates/js/edit-chapter.underscore
-msgid "path/to/introductionToCookieBaking-CH{order}.pdf"
-msgstr "path/to/introductionToCookieBaking-CH{order}.pdf"
-
-#: cms/templates/js/edit-chapter.underscore
-msgid "upload a PDF file or provide the path to a Studio asset file"
-msgstr "Suba un archivo PDF o ingrese la ruta de un recurso en Studio"
-
-#: cms/templates/js/edit-chapter.underscore
-msgid "Upload PDF"
-msgstr "Subir PDF"
-
-#: cms/templates/js/edit-chapter.underscore
-msgid "delete chapter"
-msgstr "borrar capítulo"
-
-#: cms/templates/js/edit-textbook.underscore
-msgid "Textbook information"
-msgstr "Información del libro de texto"
-
-#: cms/templates/js/edit-textbook.underscore
-msgid "Textbook Name"
-msgstr "Nombre"
-
-#: cms/templates/js/edit-textbook.underscore
-msgid "Introduction to Cookie Baking"
-msgstr "Introducción a las Ciencias de la Computación"
-
-#: cms/templates/js/edit-textbook.underscore
-msgid ""
-"provide the title/name of the text book as you would like your students to "
-"see it"
-msgstr ""
-"ingrese el título / nombre del libro de texto como será visto por los "
-"estudiantes"
-
-#: cms/templates/js/edit-textbook.underscore
-msgid "Chapter information"
-msgstr "Información del capítulo"
-
-#: cms/templates/js/edit-textbook.underscore
-msgid "Add a Chapter"
-msgstr "Añadir capítulo"
-
-#: cms/templates/js/edit-title-button.underscore
-msgid "Edit Title"
-msgstr "Editar título"
-
-#: cms/templates/js/grading-editor.underscore
-msgid "Grading"
-msgstr "Calificaciones"
-
-#: cms/templates/js/grading-editor.underscore
-msgid "Grade as:"
-msgstr "Calificar como:"
-
-#: cms/templates/js/grading-editor.underscore
-msgid "Not Graded"
-msgstr "No calificado"
-
-#: cms/templates/js/group-configuration-details.underscore
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "Cannot delete when in use by an experiment"
-msgstr "No se puede borrar mientras esté en uso por un experimento"
-
-#: cms/templates/js/group-configuration-details.underscore
-msgid "This Group Configuration is used in:"
-msgstr "Esta configuración de grupo se usa en:"
-
-#: cms/templates/js/group-configuration-details.underscore
-msgid ""
-"This Group Configuration is not in use. Start by adding a content experiment"
-" to any Unit via the {linkStart}Course Outline{linkEnd}."
-msgstr ""
-"Esta Configuración de grupo no está en uso. Comience añadiendo contenido "
-"experimental a cualquier Unidad a través de la {linkStart}Estructura del "
-"curso{linkEnd}."
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "Group Configuration information"
-msgstr "Información de configuración del grupo"
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "Group Configuration Name"
-msgstr "Nombre de configuración del grupo"
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "Group Configuration ID"
-msgstr "Identificación de configuración del grupo"
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "This is the Name of the Group Configuration"
-msgstr "Este es el nombre de la Configuración del Grupo"
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "Name or short description of the configuration"
-msgstr "Nombre o descripción corta de la configuración"
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "This is the Description of the Group Configuration"
-msgstr "Esta es la descripción de configuración del grupo"
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "Optional long description"
-msgstr "Descripción larga optativa"
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "Group information"
-msgstr "Información del grupo"
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid ""
-"Name of the groups that students will be assigned to, for example, Control, "
-"Video, Problems. You must have two or more groups."
-msgstr ""
-"Nombre de los grupos a los que los estudiantes serán asignados. Por ejemplo,"
-" Control, video, problemas. Debe tener dos o más grupos."
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid "Add another group"
-msgstr "Añadir nuevo grupo"
-
-#: cms/templates/js/group-configuration-editor.underscore
-msgid ""
-"This configuration is currently used in content experiments. If you make "
-"changes to the groups, you may need to edit those experiments."
-msgstr ""
-"Esta configuración se está usando en contenidos experimentales. Si hace "
-"cambios a los grupos, puede que necesite editar también dichos experimentos."
-
-#: cms/templates/js/group-edit.underscore
-msgid "delete group"
-msgstr "borrar grupo"
-
-#: cms/templates/js/highlights-editor.underscore
-msgid ""
-"This feature is currently in testing. Course teams can enter highlights, but"
-" learners will not receive email messages."
-msgstr ""
-"Esta característica está en prueba actualmente. Equipos del curso pueden "
-"ingresar destacados, pero los estudiantes no recibirán mensajes de correo "
-"electrónico."
-
-#: cms/templates/js/highlights-editor.underscore
-msgid ""
-"Enter 3-5 highlights to include in the email message that learners receive "
-"for this section (250 character limit)."
-msgstr ""
-"Ingrese de 3 a 5 destacados para incluir en el mensaje de correo electrónico"
-" que los estudiantes reciben para esta sección (límite de 250 caracteres)."
-
-#: cms/templates/js/highlights-editor.underscore
-msgid "Highlight {highlight_index}"
-msgstr "Destacado {highlight_index}"
-
-#: cms/templates/js/highlights-editor.underscore
-msgid "A highlight to look forward to this week."
-msgstr "Un destacado esperado para esta semana."
-
-#: cms/templates/js/license-selector.underscore
-msgid "License Type"
-msgstr "Tipo de Licencia"
-
-#: cms/templates/js/license-selector.underscore
-msgid "Learn more about {license_name}"
-msgstr "Saber más sobre  {license_name}"
-
-#: cms/templates/js/license-selector.underscore
-msgid "Options for {license_name}"
-msgstr "Opciones para  {license_name}"
-
-#: cms/templates/js/license-selector.underscore
-msgid "The following options are available for the {license_name} license."
-msgstr ""
-"Las siguientes opciones están disponibles para {license_name}  licencia"
-
-#: cms/templates/js/license-selector.underscore
-msgid "License Display"
-msgstr "Muestra de la Licencia"
-
-#: cms/templates/js/license-selector.underscore
-msgid ""
-"The following message will be displayed at the bottom of the courseware "
-"pages within your course:"
-msgstr ""
-"El siguiente mensaje será mostrado al final de las páginas de los cursos. "
-
-#: cms/templates/js/license-selector.underscore
-msgid "Creative Commons licensed content, with terms as follow:"
-msgstr ""
-"Contenido con licencia Creative Commons de acuerdo a los siguientes "
-"términos:"
-
-#: cms/templates/js/license-selector.underscore
-msgid "Some Rights Reserved"
-msgstr "Algunos Derechos Reservados"
-
-#: cms/templates/js/list.underscore
-#, python-format
-msgid "%(new_item_message)s"
-msgstr "%(new_item_message)s"
-
-#: cms/templates/js/list.underscore
-#, python-format
-msgid "New %(item_type)s"
-msgstr "Nueva %(item_type)s"
-
-#: cms/templates/js/metadata-dict-entry.underscore
-#: cms/templates/js/metadata-file-uploader-entry.underscore
-#: cms/templates/js/metadata-list-entry.underscore
-#: cms/templates/js/metadata-number-entry.underscore
-#: cms/templates/js/metadata-option-entry.underscore
-#: cms/templates/js/metadata-string-entry.underscore
-msgid "Clear"
-msgstr "Borrar"
-
-#: cms/templates/js/metadata-dict-entry.underscore
-#: cms/templates/js/metadata-file-uploader-entry.underscore
-#: cms/templates/js/metadata-list-entry.underscore
-#: cms/templates/js/metadata-number-entry.underscore
-#: cms/templates/js/metadata-option-entry.underscore
-#: cms/templates/js/metadata-string-entry.underscore
-msgid "Clear Value"
-msgstr "Borrar"
-
-#: cms/templates/js/metadata-file-uploader-item.underscore
-#: cms/templates/js/video-transcripts.underscore
-#: cms/templates/js/video/metadata-translations-item.underscore
-msgid "Download"
-msgstr "Descargar"
-
-#: cms/templates/js/move-xblock-list.underscore
-msgid "{categoryText} in {parentDisplayname}"
-msgstr "{categoryText} en {parentDisplayname}"
-
-#: cms/templates/js/move-xblock-list.underscore
-msgid "Current location"
-msgstr "Ubicación actual"
-
-#: cms/templates/js/move-xblock-list.underscore
-msgid "Currently selected"
-msgstr "Seleccionado actualmente"
-
-#: cms/templates/js/no-textbooks.underscore
-msgid "You haven't added any textbooks to this course yet."
-msgstr "No ha añadido aún ningún libro de texto a este curso."
-
-#: cms/templates/js/no-textbooks.underscore
-msgid "Add your first textbook"
-msgstr "Añada su primer libro de texto"
-
-#: cms/templates/js/partition-group-details.underscore
-msgid "This group controls access to:"
-msgstr "Este grupo controla el acceso a:"
-
-#: cms/templates/js/partition-group-details.underscore
-msgid ""
-"In the {linkStart}Course Outline{linkEnd}, use this group to control access "
-"to a component."
-msgstr ""
-"En el {linkStart}perfil del curso{linkEnd}, usa este grupo para tener "
-"control de acceso a este componente."
-
-#: cms/templates/js/previous-video-upload-list.underscore
-msgid "Previous Uploads"
-msgstr "Subidas anteriores"
-
-#: cms/templates/js/previous-video-upload-list.underscore
-msgid "Download available encodings (.csv)"
-msgstr "Descargar las codificaciones disponibles (.csv)"
-
-#: cms/templates/js/previous-video-upload-list.underscore
-msgid "Thumbnail"
-msgstr "Imagen miniatura"
-
-#: cms/templates/js/previous-video-upload-list.underscore
-msgid "Video ID"
-msgstr "ID del video"
-
-#: cms/templates/js/previous-video-upload-list.underscore
-msgid "Transcripts"
-msgstr "Transcripciones"
-
-#: cms/templates/js/previous-video-upload-list.underscore
-msgid "Video Status"
-msgstr "Estado del vídeo"
-
-#: cms/templates/js/previous-video-upload.underscore
-msgid "Remove this video"
-msgstr "Remover este video"
-
-#: cms/templates/js/previous-video-upload.underscore
-msgid "Remove {video_name} video"
-msgstr "Eliminar el video {video_name} "
-
-#: cms/templates/js/publish-history.underscore
-msgid "Never published"
-msgstr "Nunca publicad"
-
-#: cms/templates/js/publish-history.underscore
-#, python-format
-msgid "Last published %(last_published_date)s by %(publish_username)s"
-msgstr ""
-"Publicado por última vez el %(last_published_date)s por %(publish_username)s"
-
-#: cms/templates/js/publish-history.underscore
-#: cms/templates/js/publish-xblock.underscore
-msgid "Previously published"
-msgstr "Publicado previamente"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Draft (Never published)"
-msgstr "Borrador (Nunca publicado)"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Visible to Staff Only"
-msgstr "Visible solo para el equipo del curso"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Published and Live"
-msgstr "Publicado y en vivo"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Published (not yet released)"
-msgstr "Publicado (aún no liberado)"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Draft (Unpublished changes)"
-msgstr "Borrador (Cambios no publicados)"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Release:"
-msgstr "Liberación:"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Publishing Status"
-msgstr "Estado de publicación"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid ""
-"Draft saved on {lastSavedStart}{editedOn}{lastSavedEnd} by "
-"{editedByStart}{editedBy}{editedByEnd}"
-msgstr ""
-"Borrador guardado en {lastSavedStart}{editedOn}{lastSavedEnd} por "
-"{editedByStart}{editedBy}{editedByEnd}"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid ""
-"Last published {lastPublishedStart}{publishedOn}{lastPublishedEnd} by "
-"{publishedByStart}{publishedBy}{publishedByEnd}"
-msgstr ""
-"Last published {lastPublishedStart}{publishedOn}{lastPublishedEnd} por "
-"{publishedByStart}{publishedBy}{publishedByEnd}"
-
-#: cms/templates/js/publish-xblock.underscore
-#, python-format
-msgid "with %(release_date_from)s"
-msgstr "con %(release_date_from)s"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Is Visible To:"
-msgstr "Es visible para:"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Will Be Visible To:"
-msgstr "Será visible para:"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Staff Only"
-msgstr "Solo equipo del curso"
-
-#: cms/templates/js/publish-xblock.underscore
-#, python-format
-msgid "with %(section_or_subsection)s"
-msgstr "con %(section_or_subsection)s"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Staff and Learners"
-msgstr "Funcionarios y estudiantes"
-
-#: cms/templates/js/publish-xblock.underscore
-#: cms/templates/js/staff-lock-editor.underscore
-msgid "Hide from learners"
-msgstr "Ocultar a los estudiantes"
-
-#: cms/templates/js/publish-xblock.underscore
-msgid "Note: Do not hide graded assignments after they have been released."
-msgstr ""
-"Nota: No oculte las tareas calificadas después de que han sido liberadas."
-
-#: cms/templates/js/release-date-editor.underscore
-msgid "Release Date and Time"
-msgstr "Fecha y hora de liberación"
-
-#: cms/templates/js/release-date-editor.underscore
-msgid "Release Date:"
-msgstr "Fecha de liberación:"
-
-#: cms/templates/js/release-date-editor.underscore
-msgid "Release Time in UTC:"
-msgstr "Hora de liberación en UTC:"
-
-#: cms/templates/js/release-date-editor.underscore
-msgid "Clear Release Date/Time"
-msgstr "Borrar la fecha y hora de liberación"
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid "Assessment Results Visibility"
-msgstr "Visibilidad de los resultados de la evaluación"
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid "Always show assessment results"
-msgstr "Mostrar siempre los resultados de la evaluación"
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid ""
-"When learners submit an answer to an assessment, they immediately see "
-"whether the answer is correct or incorrect, and the score received."
-msgstr ""
-"Cuando los estudiantes envían una respuesta para evaluación, ven "
-"inmediatamente si la respuesta es correcta o incorrecta, y la calificación "
-"recibida."
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid "Never show assessment results"
-msgstr "No mostrar nunca los resultados de la evaluación"
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid ""
-"Learners never see whether their answers to assessments are correct or "
-"incorrect, nor the score received."
-msgstr ""
-"Los estudiantes nunca verán si sus respuestas a las evaluaciones son "
-"correctas o incorrectas, no hay un puntaje recibido."
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid "Show assessment results when subsection is past due"
-msgstr ""
-"Mostrar resultados de las evaluaciones cuando la subsección haya caducado"
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid ""
-"Learners do not see whether their answers to assessments were correct or "
-"incorrect, nor the score received, until after the course end date has "
-"passed."
-msgstr ""
-"Los estudiantes no ven si sus respuestas a las evaluaciones fueron correctas"
-" o incorrectas, ni la puntuación recibida, hasta después que la fecha de "
-"caducidad del curso haya pasado."
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid ""
-"If the course does not have an end date, learners always see their scores "
-"when they submit answers to assessments."
-msgstr ""
-"Si el curso no tiene fecha de caducidad,  los estudiantes siempre ven sus "
-"puntajes cuando envían las respuestas de las evaluaciones."
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid ""
-"Learners do not see whether their answers to assessments were correct or "
-"incorrect, nor the score received, until after the due date for the "
-"subsection has passed."
-msgstr ""
-"Los estudiantes no ven si sus respuestas a las evaluaciones fueron correctas"
-" o incorrectas, ni la puntuación recibida, hasta después que la fecha de "
-"caducidad del subsección haya pasado."
-
-#: cms/templates/js/show-correctness-editor.underscore
-msgid ""
-"If the subsection does not have a due date, learners always see their scores"
-" when they submit answers to assessments."
-msgstr ""
-"Si la subsección no tiene fecha de caducidad, los estudiantes siempre pueden"
-" ver sus puntajes cuando envían las respuestas a la evaluación."
-
-#: cms/templates/js/show-textbook.underscore
-msgid "PDF Chapters"
-msgstr "Capítulos de PDF"
-
-#: cms/templates/js/signatory-details.underscore
-#: cms/templates/js/signatory-editor.underscore
-msgid "Signatory"
-msgstr "Signatario"
-
-#: cms/templates/js/signatory-details.underscore
-#: cms/templates/js/signatory-editor.underscore
-msgid "Signature Image"
-msgstr "Imagen de la firma"
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Certificate Signatory Configuration"
-msgstr "Configuración de signatarios"
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Name "
-msgstr "Nombre"
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Name of the signatory"
-msgstr "Nombre del signatario"
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "The name of this signatory as it should appear on certificates."
-msgstr "El nombre de este signatario como debe aparecer en los certificados."
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Title "
-msgstr "Título"
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Title of the signatory"
-msgstr "Título del signatario"
-
-#: cms/templates/js/signatory-editor.underscore
-msgid ""
-"Titles more than 100 characters may prevent students from printing their "
-"certificate on a single page."
-msgstr ""
-"Si los títulos tienen más de 100 caracteres, pueden impedir que los "
-"estudiantes impriman sus certificados en una única página."
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Organization "
-msgstr "Organización"
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Organization of the signatory"
-msgstr "Organización del signatario"
-
-#: cms/templates/js/signatory-editor.underscore
-msgid ""
-"The organization that this signatory belongs to, as it should appear on "
-"certificates."
-msgstr ""
-"La organización a la que pertenece el firmante, como debe aparecer en los "
-"certificados. "
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Path to Signature Image"
-msgstr "Ruta a la imagen de la firma"
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Image must be in PNG format"
-msgstr "La imagen debe estar en formato PNG."
-
-#: cms/templates/js/signatory-editor.underscore
-msgid "Upload Signature Image"
-msgstr "Subir imagen con la firma"
-
-#: cms/templates/js/staff-lock-editor.underscore
-msgid "Unit Visibility"
-msgstr "Visibilidad de la unidad"
-
-#: cms/templates/js/staff-lock-editor.underscore
-msgid "Section Visibility"
-msgstr "Visibilidad de la sección"
-
-#: cms/templates/js/staff-lock-editor.underscore
-msgid ""
-"If the unit was previously published and released to learners, any changes "
-"you made to the unit when it was hidden will now be visible to learners."
-msgstr ""
-"Si la unidad fue publicada anteriormente y liberada a los estudiantes, "
-"cualquier cambio que haya realizado cuando estaba oculta será ahora visible "
-"para los estudiantes."
-
-#: cms/templates/js/staff-lock-editor.underscore
-#, python-format
-msgid ""
-"If you make this %(xblockType)s visible to learners, learners will be able "
-"to see its content after the release date has passed and you have published "
-"the unit. Only units that are explicitly hidden from learners will remain "
-"hidden after you clear this option for the %(xblockType)s."
-msgstr ""
-"Si hace este %(xblockType)s visible a los estudiantes, podrán ver su "
-"contenido a partir de la fecha de liberación siempre que haya publicado la "
-"unidad. Sólo las unidades que están ocultos explícitamente permanecerán "
-"ocultas después de quitar esta opción para %(xblockType)s."
-
-#: cms/templates/js/team-member.underscore
-msgid "Current Role:"
-msgstr "Rol actual:"
-
-#: cms/templates/js/team-member.underscore
-msgid "You!"
-msgstr "¡Usted!"
-
-#: cms/templates/js/team-member.underscore
-msgid "send an email message to {email}"
-msgstr "envie un correo electrónico a {email}"
-
-#: cms/templates/js/team-member.underscore
-msgid "Promote another member to Admin to remove your admin rights"
-msgstr ""
-"Promueva a otro miembro del equipo a administrador si quiere quitar sus "
-"propios privilegios de administrador"
-
-#: cms/templates/js/team-member.underscore
-msgid "Add {role} Access"
-msgstr "Añadir permisos de {role}"
-
-#: cms/templates/js/team-member.underscore
-msgid "Remove {role} Access"
-msgstr "Eliminar permisos de {role}"
-
-#: cms/templates/js/team-member.underscore
-msgid "Delete the user, {username}"
-msgstr "Borrar el usuario, {username}"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid "Set as a Special Exam"
-msgstr "Establecer como Examen especial"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid "Exam Types"
-msgstr "Tipos de exámen"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid ""
-"This subsection was released to learners as a special exam, but was reverted"
-" back to a basic exam. You may not configure it as a special exam now. "
-"Contact edX Support for assistance."
-msgstr ""
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid ""
-"This special exam has been released to learners. You may not convert it to "
-"another type of special exam. You may revert this subsection back to being a"
-" basic exam by selecting 'None', but you will NOT be able to configure it as"
-" a special exam in the future."
-msgstr ""
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid "Timed"
-msgstr "Cronometrado"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid ""
-"Use a timed exam to limit the time learners can spend on problems in this "
-"subsection. Learners must submit answers before the time expires. You can "
-"allow additional time for individual learners through the Instructor "
-"Dashboard."
-msgstr ""
-"Use un examen cronometrado para limitar el tiempo que los estudiantes podrán"
-" emplear en los problemas de esta subsección. Los estudiantes deberán enviar"
-" sus respuestas antes de que el tiempo expire. Usted podrá permitir un "
-"tiempo adicional por estudiante a través del panel de control de instructor."
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid "Proctored"
-msgstr "Supervisado"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid ""
-"Proctored exams are timed and they record video of each learner taking the "
-"exam. The videos are then reviewed to ensure that learners follow all "
-"examination rules."
-msgstr ""
-"Los exámenes supervisados son cronometrados y un software graba a cada "
-"estudiante que toma el examen. Los videos luego son revisados para "
-"garantizar que el estudiante cumplió con todas las reglas del examen."
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid "Onboarding"
-msgstr "Integración"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid ""
-"Use Onboarding to introduce learners to proctoring, verify their identity, "
-"and create an onboarding profile. Learners must complete the onboarding "
-"profile step prior to taking a proctored exam. Profile reviews take 2+ "
-"business days."
-msgstr ""
-"Utilice Integración para presentar la supervisión a los estudiantes, "
-"verificar su identidad y crear un perfil de integración. Los alumnos deben "
-"completar el paso del perfil de integración antes de tomar un examen "
-"supervisado. Las evaluaciones del perfil requieren 2 o más días hábiles."
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid "Practice Proctored"
-msgstr "Practica de examen supervisado"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid ""
-"Use a practice proctored exam to introduce learners to the proctoring tools "
-"and processes. Results of a practice exam do not affect a learner's grade."
-msgstr ""
-"Use una práctica de examen supervisado para introducir a los estudiantes a "
-"las herramientas y procesos de este tipo de examen. Los resultados de esta "
-"práctica no contarán hacia la calificación del estudiante."
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid "Time Allotted (HH:MM):"
-msgstr "Tiempo permitido (HH:MM):"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid ""
-"Select a time allotment for the exam. If it is over 24 hours, type in the "
-"amount of time. You can grant individual learners extra time to complete the"
-" exam through the Instructor Dashboard."
-msgstr ""
-"Seleccione un tiempo disponible para el examen. Si es mayor a 24 horas, "
-"escriba la cantidad de tiempo. Puede otorgar a estudiantes individuales un "
-"tiempo extra para completar el examen a través del panel de control de "
-"instructor."
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid "Review Rules"
-msgstr "Revisar las reglas"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid ""
-"Specify any rules or rule exceptions that the proctoring review team should "
-"enforce when reviewing the videos. For example, you could specify that "
-"calculators are allowed. These specified rules are visible to learners "
-"before the learners start the exam, along with the {linkStart}general "
-"proctored exam rules{linkEnd}."
-msgstr ""
-"Especifica cualquiera regla o excepciones a la regla que el equipo "
-"supervisor de revisión debe aplicar al ver los vídeos. Por ejemplo, podrías "
-"especificar que calculadoras están permitidas. Estas reglas específicas son "
-"visibles a los estudiantes que inician el examen, junto con "
-"{linkStart}reglas generales del examen supervisado{linkEnd}."
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid "General Proctored Exam Rules"
-msgstr "Reglas Generales del Examen Supervisado"
-
-#: cms/templates/js/timed-examination-preference-editor.underscore
-msgid ""
-"Specify any rules or rule exceptions that the proctoring review team should "
-"enforce when reviewing the videos. For example, you could specify that "
-"calculators are allowed. These specified rules are visible to learners "
-"before the learners start the exam."
-msgstr ""
-"Especifique cualquier regla o excepción a la regla que el equipo de revisión"
-" y monitoreo debería hacer cumplir cuando se vean los vídeos. Por ejemplo, "
-"podría especificar que calculadoras están permitidas. Esta reglas "
-"específicas son visibles para los estudiantes antes de que empiecen el "
-"examen."
-
-#: cms/templates/js/transcript-organization-credentials.underscore
-msgid "Account"
-msgstr "Cuenta"
-
-#: cms/templates/js/transcript-organization-credentials.underscore
-msgid ""
-"This action updates the {provider} information for your entire organization."
-msgstr ""
-"Esta acción actualiza la información del proveedor {provider} para toda la "
-"organización."
-
-#: cms/templates/js/transcript-organization-credentials.underscore
-msgid "Enter the account information for your organization."
-msgstr "Ingrese la información de la cuenta para su organización."
-
-#: cms/templates/js/transcript-organization-credentials.underscore
-msgid "API Key"
-msgstr "Llave API"
-
-#: cms/templates/js/transcript-organization-credentials.underscore
-msgid "API Secret"
-msgstr "Secreto API"
-
-#: cms/templates/js/unit-access-editor.underscore
-msgid "Unit Access"
-msgstr "Unidad de Acceso"
-
-#: cms/templates/js/unit-access-editor.underscore
-msgid "Restrict access to:"
-msgstr "Acceso restringido a:"
-
-#: cms/templates/js/unit-access-editor.underscore
-msgid "Select a group type"
-msgstr "Seleccione un tipo de grupo"
-
-#: cms/templates/js/unit-access-editor.underscore
-msgid "Select one or more groups:"
-msgstr "Selecciones uno o mas grupos:"
-
-#: cms/templates/js/unit-access-editor.underscore
-msgid "Deleted Group"
-msgstr "Grupo eliminado"
-
-#: cms/templates/js/unit-access-editor.underscore
-msgid ""
-"This group no longer exists. Choose another group or do not restrict access "
-"to this unit."
-msgstr ""
-"Este grupo ya no existe. Seleccione otro grupo o no restrinja el acceso a "
-"esta unidad."
-
-#: cms/templates/js/upload-dialog.underscore
-msgid "File upload succeeded"
-msgstr "Archivo subido con exito"
-
-#: cms/templates/js/validation-error-modal.underscore
-msgid ""
-"Please check the following validation feedbacks and reflect them in your "
-"course settings:"
-msgstr ""
-"Por favor revisa la retroalimentación de validación y reflejalo en tu "
-"configuración de curso."
-
-#: cms/templates/js/verification-access-editor.underscore
-msgid "Verification Checkpoint"
-msgstr "Punto de verificación"
-
-#: cms/templates/js/verification-access-editor.underscore
-msgid "Must complete verification checkpoint"
-msgstr "Debe completar el punto de verificación"
-
-#: cms/templates/js/verification-access-editor.underscore
-msgid "Verification checkpoint to be completed"
-msgstr "El punto de verificación debe ser completado"
-
-#: cms/templates/js/verification-access-editor.underscore
-msgid ""
-"Learners who require verification must pass the selected checkpoint to see "
-"the content in this unit. Learners who do not require verification see this "
-"content by default."
-msgstr ""
-"Los usuarios que requieren verificación deben completar el punto de "
-"verificación seleccionado para ver el contenido de esta unidad. Los usuarios"
-" que no requieren verificación ven el contenido en forma predeterminada."
-
-#: cms/templates/js/video-thumbnail.underscore
-msgid ""
-"Recommended image resolution is {imageResolution}, maximum image file size "
-"should be {maxFileSize} and format must be one of {supportedImageFormats}."
-msgstr ""
-"La resolución recomendada de la imagen es {imageResolution}, el máximo "
-"tamaño del archivo de la imagen debería ser {maxFileSize} y el formato debe "
-"ser uno de {supportedImageFormats}."
-
-#: cms/templates/js/video-transcript-upload-status.underscore
-msgid "Read more"
-msgstr "Leer más"
-
-#: cms/templates/js/video-transcripts.underscore
-msgid "No transcript uploaded."
-msgstr "No se ha subido ninguna transcripción"
-
-#: cms/templates/js/video-transcripts.underscore
-msgid "Show transcripts ({totalTranscripts})"
-msgstr "Mostrar transcripciones ({totalTranscripts})"
-
-#: cms/templates/js/xblock-access-editor.underscore
-msgid "Set Access"
-msgstr "Configuración de Acceso"
-
-#: cms/templates/js/xblock-string-field-editor.underscore
-#, python-format
-msgid "Edit %(display_name)s (required)"
-msgstr "Editar %(display_name)s (requerido)"
-
-#: cms/templates/js/maintenance/force-published-course-response.underscore
-msgid ""
-"You have done a dry run of force publishing the course. Nothing has changed."
-" Had you run it, the following course versions would have been change."
-msgstr ""
-"Ha corrido un simulacro de publicación del curso. No han habido cambios. Si "
-"lo hubiera hecho realmente, las siguientes versiones habrían tenido cambios."
-
-#: cms/templates/js/maintenance/force-published-course-response.underscore
-msgid ""
-"The published branch version, {published}, was reset to the draft branch "
-"version, {draft}."
-msgstr ""
-"La versión publicada, {published}, fue restablecida a la versión borrador, "
-"{draft}."
-
-#: cms/templates/js/video/transcripts/metadata-videolist-entry.underscore
-msgid "Add URLs for additional versions"
-msgstr "Añada URLs para las versiones adicionales"
-
-#: cms/templates/js/video/transcripts/metadata-videolist-entry.underscore
-msgid ""
-"To be sure all students can access the video, we recommend providing both an"
-" .mp4 and a .webm version of your video. Click below to add a URL for "
-"another version. These URLs cannot be YouTube URLs. The first listed video "
-"that's compatible with the student's computer will play."
-msgstr ""
-"Para asegurar que todos los estudiantes puedan ver el video, recomendamos "
-"suministrar tanto una versión .mp4 como una versión .webm del recurso. Haga "
-"clic a continuación para añadir la URL de una nueva versión. Estas URLs no "
-"pueden ser de Youtube. El primer video listado que sea compatible con la "
-"terminal del usuario será el que se reproducirá."
-
-#: cms/templates/js/video/transcripts/metadata-videolist-entry.underscore
-msgid "Default Timed Transcript"
-msgstr "Transcripción con tiempos por defecto"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
-msgid "Timed Transcript Conflict"
-msgstr "Conflicto en la transcripción"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
-msgid ""
-"The timed transcript for the first video file does not appear to be the same"
-" as the timed transcript for the second video file."
-msgstr ""
-"La transcripción para este primer video no parece ser la misma que la "
-"transcripción para el segundo video"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
-msgid "Which timed transcript would you like to use?"
-msgstr "¿Cuál de las transcripciones desea utilizar?"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
-msgid "Error."
-msgstr "Error."
-
-#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
-#, python-format
-msgid "Timed Transcript from %(filename)s"
-msgstr "Transcripción de %(filename)s"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
-msgid "Timed Transcript Found"
-msgstr "Se encontró una transcripción"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
-msgid ""
-"EdX has a timed transcript for this video. If you want to edit this "
-"transcript, you can download, edit, and re-upload the existing transcript. "
-"If you want to replace this transcript, upload a new .srt transcript file."
-msgstr ""
-"EdX tiene una transcripción para este video. Si desea editarla, puede "
-"descargar, editar y volver a cargar el archivo de transcripción. Si desea "
-"reemplazarla, puede hacerlo cargando un nuevo archivo .srt"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
-msgid "Upload New Transcript"
-msgstr "Cargar nueva transcripción"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
-msgid "Upload New .srt Transcript"
-msgstr "Cargar nuevo archivo de transcripción .srt"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
-#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
-msgid "Download Transcript for Editing"
-msgstr "Descargar Transcripción para editar"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
-msgid "No EdX Timed Transcript"
-msgstr "No hay una transcripción"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
-msgid ""
-"EdX doesn't have a timed transcript for this video in Studio, but we found a"
-" transcript on YouTube. You can import the YouTube transcript or upload your"
-" own .srt transcript file."
-msgstr ""
-"EdX no tiene una transcripción de este video en Studio, pero hemos "
-"encontrado una en Youtube. Puede importar la transcripción de Youtube o "
-"subir su propio archivo .srt."
-
-#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
-msgid "Import YouTube Transcript"
-msgstr "Importar la transcripción desde YouTube"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
-msgid "No Timed Transcript"
-msgstr "No hay transcripción"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
-msgid ""
-"EdX doesn\\'t have a timed transcript for this video. Please upload an .srt "
-"file."
-msgstr ""
-"EdX no cuenta con una transcripción para este video. Por favor suba un "
-"archivo de transcripción .srt"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
-msgid ""
-"The timed transcript for this video on edX is out of date, but YouTube has a"
-" current timed transcript for this video."
-msgstr ""
-"La transcripción para este video en edX está desactualizada, pero en YouTube"
-" hay una transcripción actualizada para el mismo"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
-msgid "Do you want to replace the edX transcript with the YouTube transcript?"
-msgstr "¿Desea reemplazar la transcripción de edX con la de YouTube?"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
-msgid "Yes, replace the edX transcript with the YouTube transcript"
-msgstr "Si, reemplazar la transcripción de edX con la de YouTube"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
-msgid "Timed Transcript Uploaded Successfully"
-msgstr "Transcripción cargada exitosamente"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
-msgid ""
-"EdX has a timed transcript for this video. If you want to replace this "
-"transcript, upload a new .srt transcript file. If you want to edit this "
-"transcript, you can download, edit, and re-upload the existing transcript."
-msgstr ""
-"EdX tiene una transcripción para este video. Si desea reemplazarla, suba un "
-"nuevo archivo .srt.  Si desea editar esta transcripción, descargue, edite y "
-"vuelva a cargar el archivo de transcripción."
-
-#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
-msgid "Confirm Timed Transcript"
-msgstr "Confirmar la transcripción"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
-msgid ""
-"You changed a video URL, but did not change the timed transcript file. Do "
-"you want to use the current timed transcript or upload a new .srt transcript"
-" file?"
-msgstr ""
-"Usted ha cambiado la URL del video, pero no hizo cambios en el archivo de "
-"transcripción. ¿Desea usar el archivo de transcripción actual o subir un "
-"nuevo archivo .srt?"
-
-#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
-msgid "Use Current Transcript"
-msgstr "Usar la transcripción actual"

@@ -28,18 +28,12 @@
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2021.
 #
-# #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
-# edX translation file
-# Copyright (C) 2021 edX
-# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2021.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2021-06-08 17:52+0000\n"
-"PO-Revision-Date: 2021-06-08 17:52:13.153819\n"
+"POT-Creation-Date: 2021-08-08 06:25+0000\n"
+"PO-Revision-Date: 2021-08-08 06:25:46.222496\n"
 "Last-Translator: \n"
 "Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
 "Language: eo\n"
@@ -29135,33 +29129,3 @@ msgid ""
 msgstr ""
 "À néw révïsïön wäs çréätéd: Mérgé ßétwéén Révïsïön #%(r1)d änd Révïsïön "
 "#%(r2)d Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
-
-#: edx_proctoring_proctortrack/backends/proctortrack_rest.py
-msgid ""
-"Click on the \"Start System Check\" link below to download and run the "
-"proctoring software."
-msgstr ""
-"Çlïçk ön thé \"Stärt Sýstém Çhéçk\" lïnk ßélöw tö döwnlöäd änd rün thé "
-"pröçtörïng söftwäré. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕ#"
-
-#: edx_proctoring_proctortrack/backends/proctortrack_rest.py
-msgid ""
-"Once you have verified your identity and reviewed the exam guidelines in "
-"Proctortrack, you will be redirected back to this page."
-msgstr ""
-"Önçé ýöü hävé vérïfïéd ýöür ïdéntïtý änd révïéwéd thé éxäm güïdélïnés ïn "
-"Pröçtörträçk, ýöü wïll ßé rédïréçtéd ßäçk tö thïs pägé. Ⱡ'σя#"
-
-#: edx_proctoring_proctortrack/backends/proctortrack_rest.py
-msgid ""
-"To confirm that proctoring has started, make sure your webcam feed and the "
-"blue Proctortrack box are both visible on your screen."
-msgstr ""
-"Tö çönfïrm thät pröçtörïng häs stärtéd, mäké süré ýöür wéßçäm fééd änd thé "
-"ßlüé Pröçtörträçk ßöx äré ßöth vïsïßlé ön ýöür sçréén. Ⱡ'σ#"
-
-#: edx_proctoring_proctortrack/backends/proctortrack_rest.py
-msgid "Click on the \"Start Proctored Exam\" button below to continue."
-msgstr ""
-"Çlïçk ön thé \"Stärt Pröçtöréd Éxäm\" ßüttön ßélöw tö çöntïnüé. Ⱡ'σяєм ιρѕυм"
-" ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
