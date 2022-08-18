@@ -1,0 +1,11 @@
+@font-face{
+    font-family:'Qomolangma-UchenSarchen';
+    src:url('../fonts/Qomolangma-UchenSarchen.ttf');
+    font-weight:normal;
+    font-style:normal
+}
+
+
+body.lang_bo{
+    font-family: "Qomolangma-UchenSarchen", sans-serif !important;
+}
