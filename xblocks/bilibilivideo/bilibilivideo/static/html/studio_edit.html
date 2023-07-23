@@ -1,0 +1,30 @@
+{% load i18n %}
+<div class="wrapper-comp-settings editor-with-buttons is-active" id="settings-tab">
+    <ul class="list-input settings-list">
+         <li class="field comp-setting-entry is-set">
+            <div class="wrapper-comp-setting">
+                <label class="label setting-label" for="display_name">{% trans "Display Name" %}</label>
+                <input class="input setting-input" id="display_name" value="{{ display_name }}" type="text">
+            </div>
+            <span class="tip setting-help">{% trans "This name appears in the horizontal navigation at the top of the page." %}</span>
+        </li>
+        <li class="field comp-setting-entry is-set">
+            <div class="wrapper-comp-setting">
+                <label class="label setting-label" for="embed_code">{% trans "Embed code" %}</label>
+                <textarea class="input setting-input" rows="5" style="width: 45%" id="embed_code">{{ embed_code }}</textarea>
+            </div>
+            <span class="tip setting-help">{% trans "Bilibili provides an embed code for video. To get embed_code for video, hover/click on share icon of video and click on embed code, paster into this field." %}</span>
+        </li>        
+    </ul>
+    
+    <div class="xblock-actions">
+        <ul>
+            <li class="action-item">
+                <a href="#" class="button action-primary action-save">{% trans "Save" %}</a>
+            </li>
+            <li class="action-item">
+                <a href="#" class="button action-cancel">{% trans "Cancel" %}</a>
+            </li>
+        </ul>
+    </div>
+</div>
