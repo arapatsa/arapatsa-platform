@@ -87,8 +87,10 @@ ${HTML(fragment.foot_html())}
       </main>
   </section>
 </div>
-<script type="text/javascript">
-  $(document).ready(function() {
-      $('meta[name=viewport]').attr('content', 'width=device-width, initial-scale=0.3');
-  });
-</script>
+% if block.category == "drag-and-drop-v2":
+  <script type="text/javascript">
+    $(document).ready(function() {
+        $('meta[name=viewport]').attr('content', 'width=device-width, initial-scale=0.3');
+    });
+  </script>
+% endif

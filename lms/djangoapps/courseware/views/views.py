@@ -1787,7 +1787,6 @@ def render_xblock(request, usage_key_string, check_if_enrolled=True):
 
         fragment = block.render(requested_view, context=student_view_context)
         optimization_flags = get_optimization_flags_for_content(block, fragment)
-
         context = {
             'fragment': fragment,
             'course': course,
@@ -1809,6 +1808,7 @@ def render_xblock(request, usage_key_string, check_if_enrolled=True):
             'is_learning_mfe': is_learning_mfe,
             'is_mobile_app': is_request_from_mobile_app(request),
             'reset_deadlines_url': reverse(RESET_COURSE_DEADLINES_NAME),
+            'block': block,
 
             **optimization_flags,
         }
