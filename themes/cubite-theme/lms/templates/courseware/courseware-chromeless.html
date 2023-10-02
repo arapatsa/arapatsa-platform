@@ -94,3 +94,16 @@ ${HTML(fragment.foot_html())}
     });
   </script>
 % endif
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(".course-wrapper.chromeless a").on("click", function(e){
+      e.preventDefault();
+      var external_link = $(this).attr("href")
+      if (window.JsInterface) {
+          JsInterface.openExternalLink(external_link)
+      } else {
+          window.location.href = external_link;
+      }
+    });
+  });
+</script>
