@@ -8,10 +8,9 @@ from django.urls import reverse
 from openedx.core.djangolib.markup import HTML, Text
 %>
 <style type="text/css">
-    .relative.overflow-hidden{margin-top: 43px;}
-    .settings-language-form{margin-top: 0; margin-bottom: 0; padding: 0;}
+    .settings-language-form{margin-top: 0; margin-bottom: 0;}
 </style>
-<div class="">
+<div class="top-banner">
     <div class="relative overflow-hidden">
         <main>
             <img src="${static.url('images/banner.png')}">
@@ -20,13 +19,5 @@ from openedx.core.djangolib.markup import HTML, Text
     </div>
 </div>
 <!-- Features -->
-<!-- Bring courses list -->
-<div class="relative">
-    <div class="absolute inset-0 flex items-center" aria-hidden="true">
-        <div class="w-full border-t border-gray-300"></div>
-    </div>
-    <div class="relative flex justify-center">
-    </div>
-</div>
 <%include file="${courses_list}" />
 <!-- CTA -->

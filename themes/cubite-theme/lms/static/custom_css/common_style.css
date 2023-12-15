@@ -9,3 +9,84 @@
 body.lang_bo{
     font-family: "Qomolangma-UchenSarchen", sans-serif !important;
 }
+
+.global-header .nav-links .secondary .nav-item a{border: none !important;padding: 7px 15px !important;}
+.global-header .nav-links .secondary.authenticated .nav-item a{padding-right: 25px !important;}
+.global-header .nav-links .secondary .nav-item a.menu-title {
+        display: flex;
+        align-items: center;
+    }
+.global-header .nav-links .secondary .nav-item a.menu-title .user-image-frame {
+        border-radius: 50%;
+        margin-right: 8px;
+    }
+.global-header .header-logo a {margin-top: 0 !important;}
+.global-header{margin-bottom: 0 !important;padding: 20px 0;}
+.mobile-menu{margin: 0px 0 -10px;}
+.top-banner {
+    background: #9c4848;
+    position: relative;
+    overflow: hidden;
+}
+.top-banner main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top-banner img {
+    width: auto;
+    height: auto;
+}
+.home-bg-grey{
+    background: #e5e7eb !important;
+}
+.global-header .nav-links .main .nav-tab{margin-top: 0 !important}
+@media (min-width: 992px){
+    .language-menu-div .settings-language-form {
+        position: absolute;
+        right: 120px;
+        top: 25px;
+        padding: 0;
+    }
+    #settings-language-value{
+        height: 30px;
+    }
+    .global-header .nav-links .secondary {
+        margin: 0px 200px 0 0;
+        float: none;
+        position: absolute;
+        right: 115px;
+    }
+    .global-header .nav-links .secondary .nav-item{
+        padding: 0;
+    }
+    .global-header .nav-links .secondary.authenticated .nav-item{
+        margin-right: 0;
+    }
+    .global-header .nav-links .main{
+        margin-top: 0;
+    }
+    .global-header .nav-links .secondary .toggle-user-dropdown{
+        padding: 0;
+        padding-right: 10px;
+    position: absolute;
+        top: 8px;
+        right: 0;
+    }
+    .global-header .nav-links .secondary .dropdown-user-menu{
+        right: 10px !important;
+        top: 50px !important;
+    }
+}
+
+@media (max-width: 991.98px){
+    .global-header .header-logo a {
+        margin-left: 50% !important;
+    }
+    .global-header .hamburger-menu{
+        top: 7px;
+    }
+    .global-header .main-header{
+        height: 50px;
+    }
+}
