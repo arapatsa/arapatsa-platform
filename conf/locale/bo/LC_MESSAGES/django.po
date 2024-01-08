@@ -25472,4 +25472,4 @@ msgid "Our Courses"
 msgstr "སློབ་ཚན་ཁག"
 
 msgid "See More Courses"
-msgstr "སློོབ་ཚན་དེ་ལས་མང་བར་གཟིགས།"
+msgstr "སློབ་ཚན་དེ་ལས་མང་བར་གཟིགས།"
