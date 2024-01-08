@@ -1712,7 +1712,7 @@ LANGUAGES = [
     ('en-uk', 'English (United Kingdom)'),  # English (United Kingdom)
     ('en@lolcat', 'LOLCAT English'),  # LOLCAT English
     ('en@pirate', 'Pirate English'),  # Pirate English
-    ('es-419', 'Español (Latinoamérica)'),  # Spanish (Latin America)
+    ('es-419', 'Español'),  # Spanish (Latin America)
     ('es-ar', 'Español (Argentina)'),  # Spanish (Argentina)
     ('es-ec', 'Español (Ecuador)'),  # Spanish (Ecuador)
     ('es-es', 'Español (España)'),  # Spanish (Spain)
