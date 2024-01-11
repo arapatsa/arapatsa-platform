@@ -23,18 +23,18 @@ body.lang_bo{
 .global-header .header-logo a {margin-top: 0 !important;}
 .global-header{margin-bottom: 0 !important;padding: 20px 0;}
 .mobile-menu{margin: 0px 0 -10px;}
-.top-banner {
+/*.top-banner {
     background: #9c4848;
     position: relative;
     overflow: hidden;
-}
+}*/
 .top-banner main {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .top-banner img {
-    width: auto;
+    width: 100%;
     height: auto;
 }
 .home-bg-grey{
