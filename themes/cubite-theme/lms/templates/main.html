@@ -48,6 +48,12 @@ from common.djangoapps.pipeline_mako import render_require_js_path_overrides
        ${static.get_page_title_breadcrumbs(self.pagetitle())}
       </title>
   </%block>
+  <meta name="description" content="Unlock your potential with Arapatsa’s online courses. Explore a diverse range of subjects taught by industry experts. Start your learning journey today and advance your career!">
+  <meta property="og:title" content="Arapatsa: Expert-Led Online Courses to Boost Your Skills">
+  <meta property="og:description" content="Unlock your potential with Arapatsa’s online courses. Explore a diverse range of subjects taught by industry experts. Start your learning journey today and advance your career!">
+  <meta property="og:image" content="${static.url('images/logo.png')}">
+  <meta property="og:url" content="https://www.arapatsa.org/">
+  <link rel="canonical" href="https://www.arapatsa.com">
 
   % if not allow_iframing:
       <script type="text/javascript">
@@ -86,6 +92,15 @@ from common.djangoapps.pipeline_mako import render_require_js_path_overrides
   <% favicon_url = branding_api.get_favicon_url() %>
   <link rel="icon" type="image/x-icon" href="${favicon_url}"/>
 
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "Arapatsa",
+      "url": "https://www.arapatsa.com",
+      "logo": "https://arapatsa.org/static/cubite-theme/images/logo.png"
+    }
+  </script>
 
 
   <%static:css group='style-vendor'/>
@@ -184,8 +199,6 @@ from common.djangoapps.pipeline_mako import render_require_js_path_overrides
   <div class="window-wrap" dir="${static.dir_rtl()}">
 % endif
     <%block name="skip_links"/>
-    <a class="nav-skip sr-only sr-only-focusable" href="#main">${_("Skip to main content")}</a>
-
     % if not disable_header:
         <%include file="${static.get_template_path('header.html')}" args="online_help_token=online_help_token" />
         <%include file="/preview_menu.html" />

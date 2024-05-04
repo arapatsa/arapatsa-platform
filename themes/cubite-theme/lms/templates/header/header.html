@@ -42,7 +42,7 @@ from openedx.core.djangoapps.site_configuration import helpers as configuration_
   </script>
 % endif
 
-<header class=" overflow-hidden border-transparent shadow-none border-opacity-0 global-header lg:mb-4 ${'slim' if course else ''}">
+<header id="top-header" class="overflow-hidden border-transparent shadow-none border-opacity-0 global-header lg:mb-4 ${'slim' if course else ''}">
     % if use_cookie_banner:
         ${static.renderReact(
             component="CookiePolicyBanner",

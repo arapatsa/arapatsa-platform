@@ -41,6 +41,18 @@ body.lang_bo{
     background: #e5e7eb !important;
 }
 .global-header .nav-links .main .nav-tab{margin-top: 0 !important}
+
+
+.top-banner .overflow-hidden{max-width: 80rem !important;margin-left: auto;margin-right: auto;}
+
+#top-header .main-header:before, #top-header .main-header:after {
+    display: table;
+    content: " ";
+}
+#top-header .main-header:after {
+    clear: both;
+}
+
 @media (min-width: 992px){
     .language-menu-div .settings-language-form {
         position: absolute;
@@ -89,4 +101,14 @@ body.lang_bo{
     .global-header .main-header{
         height: 50px;
     }
+    .settings-language-form{
+        position: absolute;
+        float: none;
+        right: 15px;
+        top: 15px;
+    }
+}
+
+@media (max-width: 1624px){
+    .top-banner .overflow-hidden{max-width: 100rem !important;}
 }
